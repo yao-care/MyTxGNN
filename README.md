@@ -1,41 +1,41 @@
-# MyTxGNN - Malaysia Drug Repurposing Predictions
+# MyTxGNN - Ramalan Penggunaan Semula Ubat di Malaysia
 
 [![Website](https://img.shields.io/badge/Website-mytxgnn.yao.care-blue)](https://mytxgnn.yao.care)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![FHIR R4](https://img.shields.io/badge/FHIR-R4-orange)](https://mytxgnn.yao.care/fhir/metadata)
 
-Drug repurposing predictions for NPRA-approved pharmaceuticals in Malaysia using TxGNN knowledge graph.
+Ramalan penggunaan semula ubat untuk produk farmaseutikal yang diluluskan NPRA di Malaysia menggunakan graf pengetahuan TxGNN.
 
-## Important Notice
+## Notis Penting
 
-- **Research Use Only**: Results are for research reference and do not constitute medical advice
-- **Clinical Validation Required**: Drug repurposing candidates require clinical trials before application
-- **Consult Healthcare Professionals**: Always seek professional medical advice for treatment decisions
+- **Untuk Penyelidikan Sahaja**: Keputusan adalah untuk rujukan penyelidikan dan bukan nasihat perubatan
+- **Pengesahan Klinikal Diperlukan**: Calon penggunaan semula ubat memerlukan ujian klinikal sebelum aplikasi
+- **Rujuk Profesional Kesihatan**: Sentiasa dapatkan nasihat perubatan profesional untuk keputusan rawatan
 
-## Project Overview
+## Gambaran Keseluruhan Projek
 
-### Prediction Statistics
+### Statistik Ramalan
 
-| Metric | Count |
-|--------|-------|
-| **Drugs Analyzed** | 508 |
-| **KG Predictions** | 41,560 |
-| **DL Predictions** | 9,968,985 |
-| **High Confidence (≥0.7)** | 176,021 |
-| **Unique Diseases** | 17,041 |
+| Metrik | Jumlah |
+|--------|--------|
+| **Ubat Dianalisis** | 508 |
+| **Ramalan KG** | 41,560 |
+| **Ramalan DL** | 9,968,985 |
+| **Keyakinan Tinggi (≥0.7)** | 176,021 |
+| **Penyakit Unik** | 17,041 |
 
-### Data Sources
+### Sumber Data
 
-| Source | Description | Records |
-|--------|-------------|---------|
-| **NPRA Registry** | Malaysia pharmaceutical products via [data.gov.my](https://data.gov.my/data-catalogue/pharmaceutical_products) | 27,938 |
-| **TxGNN** | Harvard knowledge graph ([Nature Medicine 2023](https://doi.org/10.1038/s41591-023-02233-x)) | 17,080 nodes |
-| **DrugBank** | Drug standardization and mapping | 508 matched |
+| Sumber | Penerangan | Rekod |
+|--------|------------|-------|
+| **Pendaftaran NPRA** | Produk farmaseutikal Malaysia melalui [data.gov.my](https://data.gov.my/data-catalogue/pharmaceutical_products) | 27,938 |
+| **TxGNN** | Graf pengetahuan Harvard ([Nature Medicine 2023](https://doi.org/10.1038/s41591-023-02233-x)) | 17,080 nod |
+| **DrugBank** | Penstandardan dan pemetaan ubat | 508 dipadankan |
 
-### Top Drugs by Prediction Count
+### Ubat Teratas mengikut Jumlah Ramalan
 
-| Rank | Drug | DrugBank ID | KG Predictions |
-|------|------|-------------|----------------|
+| Kedudukan | Ubat | ID DrugBank | Ramalan KG |
+|-----------|------|-------------|------------|
 | 1 | Prednisolone | DB00860 | 3,650 |
 | 2 | Betamethasone | DB00443 | 3,198 |
 | 3 | Fusidic Acid | DB02703 | 3,008 |
@@ -49,18 +49,18 @@ Drug repurposing predictions for NPRA-approved pharmaceuticals in Malaysia using
 
 ---
 
-## Prediction Methods
+## Kaedah Ramalan
 
-TxGNN provides two prediction approaches:
+TxGNN menyediakan dua pendekatan ramalan:
 
-| Method | Speed | Precision | Requirements | Results |
-|--------|-------|-----------|--------------|---------|
-| Knowledge Graph | Fast (seconds) | Lower | No special requirements | `repurposing_candidates.csv` |
-| Deep Learning | Slow (hours) | Higher | Conda + PyTorch + DGL | `txgnn_checkpoint.csv` |
+| Kaedah | Kelajuan | Ketepatan | Keperluan | Hasil |
+|--------|----------|-----------|-----------|-------|
+| Graf Pengetahuan | Cepat (saat) | Rendah | Tiada keperluan khas | `repurposing_candidates.csv` |
+| Pembelajaran Mendalam | Lambat (jam) | Tinggi | Conda + PyTorch + DGL | `txgnn_checkpoint.csv` |
 
-**Key Difference**: Knowledge graph method queries existing drug-disease relationships; deep learning method uses neural network inference to predict potential relationships with confidence scores.
+**Perbezaan Utama**: Kaedah graf pengetahuan menanyakan hubungan ubat-penyakit sedia ada; kaedah pembelajaran mendalam menggunakan inferens rangkaian neural untuk meramalkan hubungan berpotensi dengan skor keyakinan.
 
-### Knowledge Graph Method
+### Kaedah Graf Pengetahuan
 
 ```bash
 uv run python scripts/run_kg_prediction.py
@@ -68,223 +68,223 @@ uv run python scripts/run_kg_prediction.py
 
 **Output**: `data/processed/repurposing_candidates.csv`
 
-| Metric | Value |
+| Metrik | Nilai |
 |--------|-------|
-| NPRA Products | 27,938 |
-| Unique Ingredients | ~2,500 |
-| DrugBank Mapped | 508 (73.87%) |
-| KG Predictions | 41,560 |
-| Unique Diseases | 940 |
+| Produk NPRA | 27,938 |
+| Bahan Unik | ~2,500 |
+| Dipetakan DrugBank | 508 (73.87%) |
+| Ramalan KG | 41,560 |
+| Penyakit Unik | 940 |
 
-### Deep Learning Method
+### Kaedah Pembelajaran Mendalam
 
 ```bash
-# Requires conda environment with PyTorch + DGL
+# Memerlukan persekitaran conda dengan PyTorch + DGL
 conda activate txgnn
 python scripts/run_txgnn_prediction.py
 ```
 
 **Output**: `data/processed/txgnn_checkpoint.csv`
 
-| Metric | Value |
+| Metrik | Nilai |
 |--------|-------|
-| Total Predictions | 9,968,985 |
-| Drugs | 585 |
-| Diseases | 17,041 |
-| High Confidence (≥0.7) | 176,021 |
-| Very High Confidence (≥0.9) | ~50,000 |
+| Jumlah Ramalan | 9,968,985 |
+| Ubat | 585 |
+| Penyakit | 17,041 |
+| Keyakinan Tinggi (≥0.7) | 176,021 |
+| Keyakinan Sangat Tinggi (≥0.9) | ~50,000 |
 
-### TxGNN Score Interpretation
+### Tafsiran Skor TxGNN
 
-| Score Range | Meaning | Recommended Action |
-|-------------|---------|-------------------|
-| ≥ 0.95 | Very high confidence | Priority for investigation |
-| 0.90 - 0.95 | High confidence | Worth investigating |
-| 0.70 - 0.90 | Moderate-high confidence | Consider with caution |
-| 0.50 - 0.70 | Moderate confidence | Exploratory only |
-| < 0.50 | Low confidence | Requires strong rationale |
+| Julat Skor | Maksud | Tindakan Disyorkan |
+|------------|--------|-------------------|
+| ≥ 0.95 | Keyakinan sangat tinggi | Keutamaan untuk penyiasatan |
+| 0.90 - 0.95 | Keyakinan tinggi | Patut disiasat |
+| 0.70 - 0.90 | Keyakinan sederhana-tinggi | Pertimbangkan dengan berhati-hati |
+| 0.50 - 0.70 | Keyakinan sederhana | Penerokaan sahaja |
+| < 0.50 | Keyakinan rendah | Memerlukan rasional kukuh |
 
 ---
 
-## Quick Start
+## Mula Pantas
 
-### Step 1: Download Data
+### Langkah 1: Muat Turun Data
 
-| File | Download Link | Location | Purpose |
-|------|---------------|----------|---------|
-| NPRA Data | [data.gov.my](https://data.gov.my/data-catalogue/pharmaceutical_products) | `data/raw/` | Malaysia drug registry |
-| node.csv | [Harvard Dataverse](https://dataverse.harvard.edu/api/access/datafile/7144482) | `data/node.csv` | TxGNN node data |
-| kg.csv | [Harvard Dataverse](https://dataverse.harvard.edu/api/access/datafile/7144484) | `data/kg.csv` | TxGNN knowledge graph |
-| edges.csv | [Harvard Dataverse](https://dataverse.harvard.edu/api/access/datafile/7144483) | `data/edges.csv` | Edge data (for DL) |
-| model_ckpt.zip | [Google Drive](https://drive.google.com/uc?id=1fxTFkjo2jvmz9k6vesDbCeucQjGRojLj) | `model_ckpt/` | Pre-trained model (for DL) |
+| Fail | Pautan Muat Turun | Lokasi | Tujuan |
+|------|-------------------|--------|--------|
+| Data NPRA | [data.gov.my](https://data.gov.my/data-catalogue/pharmaceutical_products) | `data/raw/` | Pendaftaran ubat Malaysia |
+| node.csv | [Harvard Dataverse](https://dataverse.harvard.edu/api/access/datafile/7144482) | `data/node.csv` | Data nod TxGNN |
+| kg.csv | [Harvard Dataverse](https://dataverse.harvard.edu/api/access/datafile/7144484) | `data/kg.csv` | Graf pengetahuan TxGNN |
+| edges.csv | [Harvard Dataverse](https://dataverse.harvard.edu/api/access/datafile/7144483) | `data/edges.csv` | Data tepi (untuk DL) |
+| model_ckpt.zip | [Google Drive](https://drive.google.com/uc?id=1fxTFkjo2jvmz9k6vesDbCeucQjGRojLj) | `model_ckpt/` | Model pra-latih (untuk DL) |
 
-### Step 2: Install Dependencies
+### Langkah 2: Pasang Kebergantungan
 
 ```bash
-# Install basic dependencies
+# Pasang kebergantungan asas
 uv sync
 
-# Run tests
+# Jalankan ujian
 uv run pytest tests/
 ```
 
-### Step 3: Process NPRA Data
+### Langkah 3: Proses Data NPRA
 
 ```bash
 uv run python scripts/process_fda_data.py
 ```
 
-This generates `data/raw/my_fda_drugs.json`.
+Ini menghasilkan `data/raw/my_fda_drugs.json`.
 
-### Step 4: Prepare Vocabulary Data
+### Langkah 4: Sediakan Data Kosa Kata
 
 ```bash
 uv run python scripts/prepare_external_data.py
 ```
 
-This generates files in `data/external/`:
-- `drugbank_vocab.csv` - DrugBank vocabulary
-- `disease_vocab.csv` - Disease vocabulary
-- `drug_disease_relations.csv` - Drug-disease relationships
+Ini menghasilkan fail dalam `data/external/`:
+- `drugbank_vocab.csv` - Kosa kata DrugBank
+- `disease_vocab.csv` - Kosa kata penyakit
+- `drug_disease_relations.csv` - Hubungan ubat-penyakit
 
-### Step 5: Run Knowledge Graph Prediction
+### Langkah 5: Jalankan Ramalan Graf Pengetahuan
 
 ```bash
 uv run python scripts/run_kg_prediction.py
 ```
 
-### Step 6: Set Up Deep Learning Environment (Optional)
+### Langkah 6: Sediakan Persekitaran Pembelajaran Mendalam (Pilihan)
 
 ```bash
-# Create conda environment
+# Cipta persekitaran conda
 conda create -n txgnn python=3.11 -y
 conda activate txgnn
 
-# Install PyTorch
+# Pasang PyTorch
 pip install torch==2.2.2 torchvision==0.17.2
 
-# Install DGL
+# Pasang DGL
 pip install dgl==1.1.3
 
-# Install TxGNN
+# Pasang TxGNN
 pip install git+https://github.com/mims-harvard/TxGNN.git
 
-# Install other dependencies
+# Pasang kebergantungan lain
 pip install pandas tqdm pyyaml pydantic ogb
 
-# Verify installation
-python -c "import torch; import dgl; import txgnn; print('Installation successful!')"
+# Sahkan pemasangan
+python -c "import torch; import dgl; import txgnn; print('Pemasangan berjaya!')"
 ```
 
-### Step 7: Run Deep Learning Prediction (Optional)
+### Langkah 7: Jalankan Ramalan Pembelajaran Mendalam (Pilihan)
 
 ```bash
-# Extract model files
+# Ekstrak fail model
 unzip -n model_ckpt.zip
 
-# Run prediction
+# Jalankan ramalan
 conda activate txgnn
 python scripts/run_txgnn_prediction.py
 ```
 
 ---
 
-## FHIR R4 API
+## API FHIR R4
 
-Access drug data via FHIR R4 API:
+Akses data ubat melalui API FHIR R4:
 
-| Endpoint | Description |
-|----------|-------------|
-| `/fhir/metadata` | Capability statement |
-| `/fhir/MedicationKnowledge/{id}` | Drug information |
-| `/fhir/ClinicalUseDefinition/{drug}-{indication}` | Prediction data |
+| Endpoint | Penerangan |
+|----------|------------|
+| `/fhir/metadata` | Penyata keupayaan |
+| `/fhir/MedicationKnowledge/{id}` | Maklumat ubat |
+| `/fhir/ClinicalUseDefinition/{ubat}-{indikasi}` | Data ramalan |
 
-**Example**:
+**Contoh**:
 ```bash
 curl https://mytxgnn.yao.care/fhir/MedicationKnowledge/db00860.json
 ```
 
 ---
 
-## Project Structure
+## Struktur Projek
 
 ```
 MyTxGNN/
-├── README.md                    # Project documentation
-├── CLAUDE.md                    # AI assistant guide (SOP)
-├── pyproject.toml               # Python package config
+├── README.md                    # Dokumentasi projek
+├── CLAUDE.md                    # Panduan pembantu AI (SOP)
+├── pyproject.toml               # Konfigurasi pakej Python
 │
-├── data/                        # Data directory
-│   ├── kg.csv                   # 🟡 TxGNN knowledge graph
-│   ├── node.csv                 # 🟡 TxGNN node data
+├── data/                        # Direktori data
+│   ├── kg.csv                   # 🟡 Graf pengetahuan TxGNN
+│   ├── node.csv                 # 🟡 Data nod TxGNN
 │   ├── raw/
-│   │   └── my_fda_drugs.json    # 🟢 NPRA drug data
-│   ├── external/                # 🔵 Generated by prepare_external_data.py
+│   │   └── my_fda_drugs.json    # 🟢 Data ubat NPRA
+│   ├── external/                # 🔵 Dijana oleh prepare_external_data.py
 │   │   ├── drugbank_vocab.csv
 │   │   ├── disease_vocab.csv
 │   │   └── drug_disease_relations.csv
 │   └── processed/
-│       ├── drugbank_mapping.csv        # 🔵 Drug→DrugBank mapping
-│       ├── repurposing_candidates.csv  # 🔵 KG method results
-│       └── txgnn_checkpoint.csv        # 🔵 DL method results
+│       ├── drugbank_mapping.csv        # 🔵 Pemetaan Ubat→DrugBank
+│       ├── repurposing_candidates.csv  # 🔵 Hasil kaedah KG
+│       └── txgnn_checkpoint.csv        # 🔵 Hasil kaedah DL
 │
-├── docs/                        # Jekyll documentation site
+├── docs/                        # Laman dokumentasi Jekyll
 │   ├── _config.yml
-│   ├── _drugs/                  # 508 drug report pages
-│   ├── fhir/                    # FHIR resources
+│   ├── _drugs/                  # 508 halaman laporan ubat
+│   ├── fhir/                    # Sumber FHIR
 │   └── ...
 │
-├── src/txgnn/                   # Core code
-│   ├── data/loader.py           # NPRA data loader
+├── src/txgnn/                   # Kod teras
+│   ├── data/loader.py           # Pemuat data NPRA
 │   ├── mapping/
-│   │   ├── normalizer.py        # Drug name standardization
-│   │   ├── drugbank_mapper.py   # DrugBank ID mapping
-│   │   └── disease_mapper.py    # Disease mapping
+│   │   ├── normalizer.py        # Penstandardan nama ubat
+│   │   ├── drugbank_mapper.py   # Pemetaan ID DrugBank
+│   │   └── disease_mapper.py    # Pemetaan penyakit
 │   ├── predict/
-│   │   ├── repurposing.py       # KG method
-│   │   └── txgnn_model.py       # DL method
-│   └── collectors/              # Evidence collectors
-│       ├── npra.py              # NPRA collector
+│   │   ├── repurposing.py       # Kaedah KG
+│   │   └── txgnn_model.py       # Kaedah DL
+│   └── collectors/              # Pengumpul bukti
+│       ├── npra.py              # Pengumpul NPRA
 │       ├── clinicaltrials.py    # ClinicalTrials.gov
 │       └── pubmed.py            # PubMed
 │
-├── scripts/                     # Execution scripts
+├── scripts/                     # Skrip pelaksanaan
 │   ├── process_fda_data.py
 │   ├── prepare_external_data.py
 │   ├── run_kg_prediction.py
 │   ├── run_txgnn_prediction.py
 │   └── generate_fhir_resources.py
 │
-└── tests/                       # Test suite
+└── tests/                       # Suite ujian
 ```
 
-**Legend**: 🔵 Project code | 🟢 Malaysia data | 🟡 TxGNN data
+**Petunjuk**: 🔵 Kod projek | 🟢 Data Malaysia | 🟡 Data TxGNN
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-- [TxGNN Paper](https://www.nature.com/articles/s41591-024-03233-x) - Nature Medicine 2023
-- [TxGNN GitHub](https://github.com/mims-harvard/TxGNN)
-- [TxGNN Explorer](http://txgnn.org) - Interactive prediction query
-- [NPRA Malaysia](https://www.npra.gov.my/) - National Pharmaceutical Regulatory Agency
-- [data.gov.my](https://data.gov.my/) - Malaysia Open Data Portal
+- [Kertas TxGNN](https://www.nature.com/articles/s41591-024-03233-x) - Nature Medicine 2023
+- [GitHub TxGNN](https://github.com/mims-harvard/TxGNN)
+- [Penjelajah TxGNN](http://txgnn.org) - Pertanyaan ramalan interaktif
+- [NPRA Malaysia](https://www.npra.gov.my/) - Agensi Regulatori Farmaseutikal Kebangsaan
+- [data.gov.my](https://data.gov.my/) - Portal Data Terbuka Malaysia
 
 ---
 
-## Citation
+## Petikan
 
-If you use this dataset or software, please cite:
+Jika anda menggunakan dataset atau perisian ini, sila petik:
 
 ```bibtex
 @misc{mytxgnn2026,
-  title={MyTxGNN: Drug Repurposing Predictions for NPRA-Approved Drugs in Malaysia},
+  title={MyTxGNN: Ramalan Penggunaan Semula Ubat untuk Ubat Diluluskan NPRA di Malaysia},
   url={https://mytxgnn.yao.care},
   year={2026}
 }
 ```
 
-And cite the original TxGNN paper:
+Dan petik kertas TxGNN asal:
 
 ```bibtex
 @article{huang2023txgnn,
@@ -298,12 +298,12 @@ And cite the original TxGNN paper:
 
 ---
 
-## License
+## Lesen
 
-MIT License - See [LICENSE](LICENSE) for details.
+Lesen MIT - Lihat [LICENSE](LICENSE) untuk butiran.
 
-## Acknowledgments
+## Penghargaan
 
-- [Harvard Zitnik Lab](https://zitniklab.hms.harvard.edu/) for TxGNN
-- [NPRA Malaysia](https://www.npra.gov.my/) for pharmaceutical registry data
-- [data.gov.my](https://data.gov.my/) for open data access
+- [Harvard Zitnik Lab](https://zitniklab.hms.harvard.edu/) untuk TxGNN
+- [NPRA Malaysia](https://www.npra.gov.my/) untuk data pendaftaran farmaseutikal
+- [data.gov.my](https://data.gov.my/) untuk akses data terbuka
