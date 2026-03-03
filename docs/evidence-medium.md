@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Medium Evidence (L3)
-parent: Drug Reports
+parent: Laporan Ubat
 nav_order: 2
 has_children: true
 description: "L3 drug repurposing candidates with moderate clinical evidence requiring further investigation."

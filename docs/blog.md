@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Case Studies
-parent: Resources
+parent: Sumber
 nav_order: 3
 description: "MyTxGNN case study analyses and tutorials. Learn how AI predictions are validated with clinical evidence."
 permalink: /blog/

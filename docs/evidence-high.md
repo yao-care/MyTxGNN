@@ -1,7 +1,7 @@
 ---
 layout: default
 title: High Evidence (L1-L2)
-parent: Drug Reports
+parent: Laporan Ubat
 nav_order: 1
 has_children: true
 description: "L1-L2 drug repurposing candidates with strong clinical trial or systematic review evidence."

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Low Evidence (L4-L5)
-parent: Drug Reports
+parent: Laporan Ubat
 nav_order: 3
 has_children: true
 description: "L4-L5 drug repurposing candidates with limited clinical evidence, primarily AI predictions."

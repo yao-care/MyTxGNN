@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Sources
-parent: Resources
+parent: Sumber
 nav_order: 1
 description: "Data sources used in MyTxGNN drug repurposing predictions"
 permalink: /sources/
