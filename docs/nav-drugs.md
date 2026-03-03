@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Drug Reports
-nav_order: 3
+title: Laporan Ubat
+nav_order: 4
 has_children: true
-description: "Browse 508 drug repurposing validation reports by L1-L5 evidence levels."
+description: "Layari 508 laporan pengesahan penggunaan semula ubat mengikut tahap bukti L1-L5."
 ---
 
-# Drug Reports
+# Laporan Ubat
 
 <p style="font-size: 1.1rem; color: #666; margin-bottom: 1.5rem;">
-Browse <strong>508</strong> drug repurposing validation reports by evidence level
+Layari <strong>508</strong> laporan pengesahan penggunaan semula ubat mengikut tahap bukti
 </p>
 
 <style>
@@ -117,9 +117,9 @@ Browse <strong>508</strong> drug repurposing validation reports by evidence leve
 
 <div class="drug-dist-container">
   <div class="drug-dist-bar">
-    <a href="{{ '/evidence-high' | relative_url }}" class="dist-high" style="width: 5%;" title="High Evidence: L1-L2">L1-L2</a>
-    <a href="{{ '/evidence-medium' | relative_url }}" class="dist-medium" style="width: 15%;" title="Medium Evidence: L3">L3</a>
-    <a href="{{ '/evidence-low' | relative_url }}" class="dist-low" style="width: 80%;" title="Model Prediction Only: L4-L5">L4-L5</a>
+    <a href="{{ '/evidence-high' | relative_url }}" class="dist-high" style="width: 5%;" title="Bukti Tinggi: L1-L2">L1-L2</a>
+    <a href="{{ '/evidence-medium' | relative_url }}" class="dist-medium" style="width: 15%;" title="Bukti Sederhana: L3">L3</a>
+    <a href="{{ '/evidence-low' | relative_url }}" class="dist-low" style="width: 80%;" title="Ramalan Model Sahaja: L4-L5">L4-L5</a>
   </div>
 
   <div class="drug-cards">
@@ -128,8 +128,8 @@ Browse <strong>508</strong> drug repurposing validation reports by evidence leve
         <span class="drug-card-count">L1-L2</span>
       </div>
       <div class="drug-card-info">
-        <div class="drug-card-title">High Evidence</div>
-        <div class="drug-card-desc">Clinical trial support, priority for evaluation</div>
+        <div class="drug-card-title">Bukti Tinggi</div>
+        <div class="drug-card-desc">Sokongan ujian klinikal, keutamaan untuk penilaian</div>
       </div>
       <span class="drug-card-badge">L1-L2</span>
     </a>
@@ -139,8 +139,8 @@ Browse <strong>508</strong> drug repurposing validation reports by evidence leve
         <span class="drug-card-count">L3</span>
       </div>
       <div class="drug-card-info">
-        <div class="drug-card-title">Medium Evidence</div>
-        <div class="drug-card-desc">Literature evidence, needs further research</div>
+        <div class="drug-card-title">Bukti Sederhana</div>
+        <div class="drug-card-desc">Bukti literatur, memerlukan penyelidikan lanjut</div>
       </div>
       <span class="drug-card-badge">L3</span>
     </a>
@@ -150,8 +150,8 @@ Browse <strong>508</strong> drug repurposing validation reports by evidence leve
         <span class="drug-card-count">L4-L5</span>
       </div>
       <div class="drug-card-info">
-        <div class="drug-card-title">Model Prediction Only</div>
-        <div class="drug-card-desc">AI prediction results, research direction reference</div>
+        <div class="drug-card-title">Ramalan Model Sahaja</div>
+        <div class="drug-card-desc">Hasil ramalan AI, rujukan arah penyelidikan</div>
       </div>
       <span class="drug-card-badge">L4-L5</span>
     </a>
@@ -159,5 +159,5 @@ Browse <strong>508</strong> drug repurposing validation reports by evidence leve
 </div>
 
 <p style="text-align: center; margin-top: 2rem;">
-  <a href="{{ '/drugs/' | relative_url }}" style="display: inline-block; padding: 0.75rem 2rem; background: #2E7D32; color: white; text-decoration: none; border-radius: 8px; font-weight: 600;">View Full Drug List</a>
+  <a href="{{ '/drugs/' | relative_url }}" style="display: inline-block; padding: 0.75rem 2rem; background: #2E7D32; color: white; text-decoration: none; border-radius: 8px; font-weight: 600;">Lihat Senarai Penuh Ubat</a>
 </p>

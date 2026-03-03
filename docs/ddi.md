@@ -1,29 +1,29 @@
 ---
 layout: default
-title: Drug-Drug Interactions
-parent: Safety Data
+title: Interaksi Ubat-Ubat
+parent: Data Keselamatan
 nav_order: 1
-description: "MyTxGNN drug-drug interaction database for assessing drug repurposing safety."
+description: "Pangkalan data interaksi ubat-ubat MyTxGNN untuk menilai keselamatan penggunaan semula ubat."
 permalink: /ddi/
 ---
 
-# Drug-Drug Interactions (DDI)
+# Interaksi Ubat-Ubat (DDI)
 
-<p class="key-answer" data-question="What DDI data does MyTxGNN have?">
-This platform integrates drug interaction data from <strong>DDInter 2.0</strong> and <strong>Guide to PHARMACOLOGY</strong> to help researchers consider safety factors when evaluating drug repurposing candidates.
+<p class="key-answer" data-question="Apakah data DDI yang ada dalam MyTxGNN?">
+Platform ini mengintegrasikan data interaksi ubat dari <strong>DDInter 2.0</strong> dan <strong>Guide to PHARMACOLOGY</strong> untuk membantu penyelidik mempertimbangkan faktor keselamatan apabila menilai calon penggunaan semula ubat.
 </p>
 
 <div class="key-takeaway">
-Drug interactions are a critical consideration for drug repurposing. When a drug is used for a new indication, it may need to be combined with standard treatments for that disease. Understanding potential DDI risks is essential.
+Interaksi ubat adalah pertimbangan kritikal untuk penggunaan semula ubat. Apabila ubat digunakan untuk indikasi baharu, ia mungkin perlu digabungkan dengan rawatan standard untuk penyakit tersebut. Memahami risiko DDI berpotensi adalah penting.
 </div>
 
 ---
 
-## Data Sources
+## Sumber Data
 
 <table class="comparison-table">
 <thead>
-<tr><th>Data Source</th><th>DDI Records</th><th>Drugs Covered</th><th>Update</th></tr>
+<tr><th>Sumber Data</th><th>Rekod DDI</th><th>Ubat Diliputi</th><th>Kemas Kini</th></tr>
 </thead>
 <tbody>
 <tr>
@@ -43,91 +43,91 @@ Drug interactions are a critical consideration for drug repurposing. When a drug
 
 ---
 
-## DDI Severity Levels
+## Tahap Keterukan DDI
 
-<p class="key-answer" data-question="What are the drug interaction severity levels?">
-Drug interactions are classified into three levels based on severity, from Major to Minor, each with different clinical management recommendations.
+<p class="key-answer" data-question="Apakah tahap keterukan interaksi ubat?">
+Interaksi ubat dikelaskan kepada tiga tahap berdasarkan keterukan, dari Teruk hingga Ringan, setiap satu dengan cadangan pengurusan klinikal yang berbeza.
 </p>
 
-| Level | English | Description | Recommended Action |
-|-------|---------|-------------|-------------------|
-| **Severe** | Major | May be life-threatening or cause permanent harm | Avoid combination, find alternatives |
-| **Moderate** | Moderate | May require dose adjustment or close monitoring | Use with caution, monitor adverse reactions |
-| **Mild** | Minor | Low clinical significance | Generally safe to combine, monitor if needed |
+| Tahap | Bahasa Inggeris | Penerangan | Tindakan Disyorkan |
+|-------|-----------------|------------|-------------------|
+| **Teruk** | Major | Mungkin mengancam nyawa atau menyebabkan kemudaratan kekal | Elakkan gabungan, cari alternatif |
+| **Sederhana** | Moderate | Mungkin memerlukan pelarasan dos atau pemantauan rapi | Guna dengan berhati-hati, pantau kesan sampingan |
+| **Ringan** | Minor | Kepentingan klinikal rendah | Secara amnya selamat untuk digabungkan, pantau jika perlu |
 
 ---
 
-## How to Use DDI Data
+## Cara Menggunakan Data DDI
 
-### In Drug Reports
+### Dalam Laporan Ubat
 
-Each drug report's "Safety Considerations" section includes important drug interaction information.
+Setiap bahagian "Pertimbangan Keselamatan" laporan ubat termasuk maklumat interaksi ubat yang penting.
 
 <ol class="actionable-steps">
-<li>Go to the <a href="{{ '/drugs/' | relative_url }}">Drug List</a> and find your target drug</li>
-<li>Scroll to the "Safety Considerations" section in the report</li>
-<li>Review the drug's DDI alerts and contraindications</li>
+<li>Pergi ke <a href="{{ '/drugs/' | relative_url }}">Senarai Ubat</a> dan cari ubat sasaran anda</li>
+<li>Tatal ke bahagian "Pertimbangan Keselamatan" dalam laporan</li>
+<li>Semak amaran DDI dan kontraindikasi ubat</li>
 </ol>
 
-### Download Full Dataset
+### Muat Turun Set Data Penuh
 
-Need large-scale analysis? Download the raw DDI data from GitHub:
+Perlukan analisis berskala besar? Muat turun data DDI mentah dari GitHub:
 
-| Data | Description | Link |
-|------|-------------|------|
-| DDInter Data | Complete DDI reference table | [GitHub](https://github.com/yao-care/MyTxGNN/tree/main/data/external/ddi) |
-| Pharmacology Data | Approved drug interactions | [GitHub](https://github.com/yao-care/MyTxGNN/tree/main/data/external/ddi) |
+| Data | Penerangan | Pautan |
+|------|------------|--------|
+| Data DDInter | Jadual rujukan DDI lengkap | [GitHub](https://github.com/yao-care/MyTxGNN/tree/main/data/external/ddi) |
+| Data Pharmacology | Interaksi ubat yang diluluskan | [GitHub](https://github.com/yao-care/MyTxGNN/tree/main/data/external/ddi) |
 
 ---
 
-## Why DDI Matters for Drug Repurposing
+## Mengapa DDI Penting untuk Penggunaan Semula Ubat
 
 <blockquote class="expert-quote">
-"Drug repurposing research must evaluate not only efficacy but also drug interactions in the new indication context. Many drug repurposing failures occur precisely because interactions with standard treatment drugs are overlooked."
-<cite>— Drug Safety Assessment Principles</cite>
+"Penyelidikan penggunaan semula ubat mesti menilai bukan sahaja keberkesanan tetapi juga interaksi ubat dalam konteks indikasi baharu. Banyak kegagalan penggunaan semula ubat berlaku tepat kerana interaksi dengan ubat rawatan standard diabaikan."
+<cite>— Prinsip Penilaian Keselamatan Ubat</cite>
 </blockquote>
 
-### DDI Considerations in Drug Repurposing
+### Pertimbangan DDI dalam Penggunaan Semula Ubat
 
-1. **Standard Treatment Drugs**: New indications typically have existing standard treatments; assess combination risks
-2. **Patient Population Differences**: Different diseases have different comorbidities and medication habits
-3. **Dose Adjustment Needs**: Some DDIs can be managed through dose adjustment rather than complete avoidance
-
----
-
-## Common DDI Scenarios
-
-### Corticosteroids (e.g., Prednisolone)
-
-| Interaction | Drug Class | Severity | Note |
-|-------------|------------|----------|------|
-| NSAIDs | Anti-inflammatory | Moderate | Increased GI bleeding risk |
-| Warfarin | Anticoagulant | Moderate | May alter INR |
-| Diuretics | Cardiovascular | Moderate | Enhanced hypokalemia |
-
-### Statins (e.g., Simvastatin)
-
-| Interaction | Drug Class | Severity | Note |
-|-------------|------------|----------|------|
-| CYP3A4 Inhibitors | Various | Major | Increased myopathy risk |
-| Fibrates | Lipid-lowering | Moderate | Enhanced myopathy risk |
-| Grapefruit juice | Food | Moderate | Increased drug levels |
+1. **Ubat Rawatan Standard**: Indikasi baharu biasanya mempunyai rawatan standard sedia ada; nilai risiko gabungan
+2. **Perbezaan Populasi Pesakit**: Penyakit berbeza mempunyai komorbiditi dan tabiat pengubatan berbeza
+3. **Keperluan Pelarasan Dos**: Sesetengah DDI boleh diuruskan melalui pelarasan dos dan bukan pengelakan sepenuhnya
 
 ---
 
-## Related Resources
+## Senario DDI Biasa
 
-| Resource | Description | Link |
-|----------|-------------|------|
-| Drug List | View individual drug reports | [Go]({{ '/drugs/' | relative_url }}) |
-| Methodology | Understanding evidence levels | [Go]({{ '/methodology/' | relative_url }}) |
-| Data Sources | Complete data source information | [Go]({{ '/sources/' | relative_url }}) |
+### Kortikosteroid (cth. Prednisolone)
+
+| Interaksi | Kelas Ubat | Keterukan | Nota |
+|-----------|------------|-----------|------|
+| NSAID | Anti-radang | Sederhana | Risiko pendarahan GI meningkat |
+| Warfarin | Antikoagulan | Sederhana | Mungkin mengubah INR |
+| Diuretik | Kardiovaskular | Sederhana | Hipokalemia dipertingkatkan |
+
+### Statin (cth. Simvastatin)
+
+| Interaksi | Kelas Ubat | Keterukan | Nota |
+|-----------|------------|-----------|------|
+| Perencat CYP3A4 | Pelbagai | Teruk | Risiko miopati meningkat |
+| Fibrat | Penurun lipid | Sederhana | Risiko miopati dipertingkatkan |
+| Jus limau gedang | Makanan | Sederhana | Paras ubat meningkat |
+
+---
+
+## Sumber Berkaitan
+
+| Sumber | Penerangan | Pautan |
+|--------|------------|--------|
+| Senarai Ubat | Lihat laporan ubat individu | [Pergi]({{ '/drugs/' | relative_url }}) |
+| Metodologi | Memahami tahap bukti | [Pergi]({{ '/methodology/' | relative_url }}) |
+| Sumber Data | Maklumat sumber data lengkap | [Pergi]({{ '/sources/' | relative_url }}) |
 
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-DDI data on this page is for research reference only and <strong>does not constitute medication advice</strong>. Actual medication decisions should consult professional pharmacists or physicians. The clinical impact of drug interactions varies by individual factors.
+<strong>Penafian</strong><br>
+Data DDI di halaman ini adalah untuk rujukan penyelidikan sahaja dan <strong>bukan nasihat pengubatan</strong>. Keputusan pengubatan sebenar hendaklah berunding dengan farmasis atau doktor profesional. Kesan klinikal interaksi ubat berbeza mengikut faktor individu.
 <br><br>
-<small>Last reviewed: 2026-03-03 | Reviewer: MyTxGNN Research Team</small>
+<small>Disemak terakhir: 2026-03-03 | Penyemak: Pasukan Penyelidikan MyTxGNN</small>
 </div>

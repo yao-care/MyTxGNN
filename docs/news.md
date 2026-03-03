@@ -1,50 +1,50 @@
 ---
 layout: default
-title: Health News
+title: Berita Kesihatan
 nav_order: 3
-description: "Automated health news monitoring for 508 drugs and their indications in Malaysia."
+description: "Pemantauan berita kesihatan automatik untuk 508 ubat dan indikasi mereka di Malaysia."
 permalink: /news/
 ---
 
-# Health News Monitoring
+# Pemantauan Berita Kesihatan
 
-<p class="key-answer" data-question="What is MyTxGNN Health News Monitoring?">
-<strong>Automated tracking of health news related to 508 drugs and their indications</strong>. When news mentions drugs or diseases in the MyTxGNN database, the system automatically collects and organizes them, providing quick links to corresponding drug report pages.
+<p class="key-answer" data-question="Apakah Pemantauan Berita Kesihatan MyTxGNN?">
+<strong>Penjejakan automatik berita kesihatan berkaitan 508 ubat dan indikasi mereka</strong>. Apabila berita menyebut ubat atau penyakit dalam pangkalan data MyTxGNN, sistem mengumpul dan menyusunnya secara automatik, menyediakan pautan pantas ke halaman laporan ubat yang berkaitan.
 </p>
 
 ---
 
-## Latest News
+## Berita Terkini
 
 <div id="news-list">
-<p>Loading news...</p>
+<p>Memuatkan berita...</p>
 </div>
 
 ---
 
-## Trending Keywords
+## Kata Kunci Trending
 
 <div id="keyword-cloud">
-<p>Loading keywords...</p>
+<p>Memuatkan kata kunci...</p>
 </div>
 
 ---
 
-## Browse All Drugs
+## Layari Semua Ubat
 
-<p>Click on a drug name to view related news:</p>
+<p>Klik pada nama ubat untuk melihat berita berkaitan:</p>
 
 <div id="drug-list">
-<p>Loading drug list...</p>
+<p>Memuatkan senarai ubat...</p>
 </div>
 
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-News on this page is automatically collected by the system and is <strong>for research reference only</strong>, not medical advice. News content comes from various media outlets. MyTxGNN is not responsible for news content. Please follow your doctor's instructions for medication use.
+<strong>Penafian</strong><br>
+Berita di halaman ini dikumpul secara automatik oleh sistem dan adalah <strong>untuk rujukan penyelidikan sahaja</strong>, bukan nasihat perubatan. Kandungan berita datang dari pelbagai sumber media. MyTxGNN tidak bertanggungjawab terhadap kandungan berita. Sila ikuti arahan doktor anda untuk penggunaan ubat.
 <br><br>
-<small>Data sources: CodeBlue, The Star, Malay Mail | Update frequency: Hourly</small>
+<small>Sumber data: CodeBlue, The Star, Malay Mail | Kekerapan kemas kini: Setiap jam</small>
 </div>
 
 <style>
@@ -167,7 +167,7 @@ News on this page is automatically collected by the system and is <strong>for re
 </style>
 
 <script>
-// Convert name to URL slug
+// Tukar nama kepada slug URL
 function slugify(text) {
   return text.toLowerCase()
     .replace(/[\s_]+/g, '-')
@@ -177,7 +177,7 @@ function slugify(text) {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-  // Load news index
+  // Muat indeks berita
   fetch('{{ "/data/news-index.json" | relative_url }}')
     .then(response => response.json())
     .then(data => {
@@ -186,9 +186,9 @@ document.addEventListener('DOMContentLoaded', function() {
       loadDrugList(data.news);
     })
     .catch(err => {
-      console.error('Failed to load news:', err);
+      console.error('Gagal memuatkan berita:', err);
       document.getElementById('news-list').innerHTML =
-        '<p class="no-news">Unable to load news data. News monitoring is being set up.</p>';
+        '<p class="no-news">Tidak dapat memuatkan data berita. Pemantauan berita sedang disediakan.</p>';
       loadDrugList([]);
     });
 });
@@ -212,9 +212,9 @@ function loadDrugList(newsItems) {
       renderDrugList(data.drugs, drugsWithNews);
     })
     .catch(err => {
-      console.error('Failed to load drug list:', err);
+      console.error('Gagal memuatkan senarai ubat:', err);
       document.getElementById('drug-list').innerHTML =
-        '<p>Unable to load drug list</p>';
+        '<p>Tidak dapat memuatkan senarai ubat</p>';
     });
 }
 
@@ -222,7 +222,7 @@ function renderNews(newsItems) {
   const container = document.getElementById('news-list');
 
   if (!newsItems || newsItems.length === 0) {
-    container.innerHTML = '<p class="no-news">No matching news currently. News monitoring is active.</p>';
+    container.innerHTML = '<p class="no-news">Tiada berita yang sepadan buat masa ini. Pemantauan berita aktif.</p>';
     return;
   }
 
@@ -232,7 +232,7 @@ function renderNews(newsItems) {
 
   newsItems.forEach(item => {
     const date = new Date(item.published);
-    const dateStr = date.toLocaleDateString('en-MY', {
+    const dateStr = date.toLocaleDateString('ms-MY', {
       year: 'numeric',
       month: 'long',
       day: 'numeric'
@@ -268,7 +268,7 @@ function renderNews(newsItems) {
       <div class="news-card">
         <div class="news-title">${item.title}</div>
         <div class="news-meta">${dateStr}</div>
-        <div class="news-sources">Source: ${sources}</div>
+        <div class="news-sources">Sumber: ${sources}</div>
         ${keywords ? `<div class="news-keywords">${keywords}</div>` : ''}
       </div>
     `;
@@ -281,7 +281,7 @@ function renderKeywordCloud(newsItems) {
   const container = document.getElementById('keyword-cloud');
 
   if (!newsItems || newsItems.length === 0) {
-    container.innerHTML = '<p>No keyword data currently</p>';
+    container.innerHTML = '<p>Tiada data kata kunci buat masa ini</p>';
     return;
   }
 
@@ -306,7 +306,7 @@ function renderKeywordCloud(newsItems) {
     .slice(0, 20);
 
   if (sortedKeywords.length === 0) {
-    container.innerHTML = '<p>No keyword data currently</p>';
+    container.innerHTML = '<p>Tiada data kata kunci buat masa ini</p>';
     return;
   }
 
@@ -322,7 +322,7 @@ function renderDrugList(drugs, drugsWithNews) {
   const container = document.getElementById('drug-list');
 
   if (!drugs || drugs.length === 0) {
-    container.innerHTML = '<p>Unable to load drug list</p>';
+    container.innerHTML = '<p>Tidak dapat memuatkan senarai ubat</p>';
     return;
   }
 

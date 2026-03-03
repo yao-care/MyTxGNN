@@ -2,11 +2,11 @@
 # Jekyll configuration for GitHub Pages
 
 # Basic settings
-title: "MyTxGNN Drug Repurposing Reports"
-description: "Malaysia drug repurposing predictions using TxGNN knowledge graph"
+title: "Laporan Penggunaan Semula Ubat MyTxGNN"
+description: "Ramalan penggunaan semula ubat Malaysia menggunakan graf pengetahuan TxGNN"
 url: "https://mytxgnn.yao.care"
 baseurl: ""
-lang: "en"
+lang: "ms"
 
 # Jekyll theme
 remote_theme: just-the-docs/just-the-docs@v0.10.1
@@ -24,7 +24,12 @@ search:
   heading_level: 3
 
 # Footer
-footer_content: "Copyright &copy; 2026 MyTxGNN Project. For research purposes only. Not medical advice."
+footer_content: "Hak Cipta &copy; 2026 Projek MyTxGNN. Untuk tujuan penyelidikan sahaja. Bukan nasihat perubatan."
+
+# Auxiliary navigation links
+aux_links:
+  "GitHub":
+    - "https://github.com/yao-care/MyTxGNN"
 
 # RSS Feed
 feed:

@@ -1,133 +1,133 @@
 ---
 layout: default
-title: Drug Repurposing Predictions
+title: Laporan Pengesahan Penggunaan Semula Ubat
 nav_order: 1
-description: "AI-powered drug repurposing predictions for Malaysia NPRA-approved drugs using TxGNN knowledge graph and deep learning models."
+description: "Ramalan penggunaan semula ubat berkuasa AI untuk ubat yang diluluskan NPRA Malaysia menggunakan graf pengetahuan TxGNN dan model pembelajaran mendalam."
 permalink: /
 image: /assets/images/og-default.png
 ---
 
-# Drug Repurposing: From Data to Evidence
+# Penggunaan Semula Ubat: Dari Data ke Bukti
 
-<p class="key-answer" data-question="What is MyTxGNN?">
-<strong>MyTxGNN</strong> is a drug repurposing prediction platform based on Harvard's TxGNN model. We predicted <strong>41,560</strong> potential new indications using knowledge graph methods, and <strong>176,021</strong> high-confidence predictions (score ≥ 0.7) using deep learning for <strong>508</strong> drugs approved by Malaysia's NPRA.
+<p class="key-answer" data-question="Apakah MyTxGNN?">
+<strong>MyTxGNN</strong> adalah platform ramalan penggunaan semula ubat berdasarkan model TxGNN Harvard. Kami meramalkan <strong>41,560</strong> indikasi baharu berpotensi menggunakan kaedah graf pengetahuan, dan <strong>176,021</strong> ramalan keyakinan tinggi (skor ≥ 0.7) menggunakan pembelajaran mendalam untuk <strong>508</strong> ubat yang diluluskan NPRA Malaysia.
 </p>
 
 <div class="key-takeaway">
-Leveraging AI to discover new therapeutic uses for existing medications. Our platform combines knowledge graphs with deep learning to identify promising drug-disease relationships for further clinical investigation.
+Memanfaatkan AI untuk menemui penggunaan terapeutik baharu bagi ubat sedia ada. Platform kami menggabungkan graf pengetahuan dengan pembelajaran mendalam untuk mengenal pasti hubungan ubat-penyakit yang menjanjikan untuk penyiasatan klinikal lanjut.
 </div>
 
 <p style="margin-top: 1.5rem;">
-  <a href="{{ '/drugs' | relative_url }}" style="display: inline-block; padding: 0.75rem 1.5rem; background: #2E7D32; color: white; text-decoration: none; border-radius: 4px; font-weight: 600; margin-right: 0.5rem;">Browse Drugs</a>
-  <a href="{{ '/methodology' | relative_url }}" style="display: inline-block; padding: 0.75rem 1.5rem; background: #f5f5f5; color: #333; text-decoration: none; border-radius: 4px; font-weight: 500;">Learn Methodology</a>
+  <a href="{{ '/drugs' | relative_url }}" style="display: inline-block; padding: 0.75rem 1.5rem; background: #2E7D32; color: white; text-decoration: none; border-radius: 4px; font-weight: 600; margin-right: 0.5rem;">Layari Ubat</a>
+  <a href="{{ '/methodology' | relative_url }}" style="display: inline-block; padding: 0.75rem 1.5rem; background: #f5f5f5; color: #333; text-decoration: none; border-radius: 4px; font-weight: 500;">Pelajari Metodologi</a>
 </p>
 
 ---
 
-## Key Statistics
+## Statistik Utama
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; margin: 1.5rem 0;">
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; text-align: center;">
     <div style="font-size: 2.5rem; font-weight: 700; color: #2E7D32;">508</div>
-    <div style="color: #666;">Drugs Analyzed</div>
+    <div style="color: #666;">Ubat Dianalisis</div>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; text-align: center;">
     <div style="font-size: 2.5rem; font-weight: 700; color: #1976D2;">41,560</div>
-    <div style="color: #666;">KG Predictions</div>
+    <div style="color: #666;">Ramalan KG</div>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; text-align: center;">
     <div style="font-size: 2.5rem; font-weight: 700; color: #FB8C00;">176,021</div>
-    <div style="color: #666;">High-Score DL Predictions</div>
+    <div style="color: #666;">Ramalan DL Skor Tinggi</div>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; text-align: center;">
     <div style="font-size: 2.5rem; font-weight: 700; color: #9B59B6;">27,938</div>
-    <div style="color: #666;">NPRA Registered Products</div>
+    <div style="color: #666;">Produk Berdaftar NPRA</div>
   </div>
 </div>
 
 ---
 
-## Our Approach
+## Pendekatan Kami
 
-<p class="key-answer" data-question="How does MyTxGNN work?">
-MyTxGNN uses two complementary approaches for drug repurposing prediction: Knowledge Graph (KG) methods leverage existing drug-disease relationships, while Deep Learning (DL) models learn complex patterns from biomedical data.
+<p class="key-answer" data-question="Bagaimana MyTxGNN berfungsi?">
+MyTxGNN menggunakan dua pendekatan pelengkap untuk ramalan penggunaan semula ubat: Kaedah Graf Pengetahuan (KG) memanfaatkan hubungan ubat-penyakit sedia ada, manakala model Pembelajaran Mendalam (DL) mempelajari corak kompleks daripada data bioperubatan.
 </p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 1.5rem 0;">
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #2E7D32;">
-    <strong style="font-size: 1.1rem;">Knowledge Graph Predictions</strong><br>
-    <span style="color: #666;">Based on TxGNN's biomedical knowledge graph containing drug-disease relationships from DrugBank, clinical trials, and scientific literature. 41,560 predictions for 508 drugs.</span>
+    <strong style="font-size: 1.1rem;">Ramalan Graf Pengetahuan</strong><br>
+    <span style="color: #666;">Berdasarkan graf pengetahuan bioperubatan TxGNN yang mengandungi hubungan ubat-penyakit dari DrugBank, ujian klinikal, dan literatur saintifik. 41,560 ramalan untuk 508 ubat.</span>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #1976D2;">
-    <strong style="font-size: 1.1rem;">Deep Learning Predictions</strong><br>
-    <span style="color: #666;">TxGNN's neural network model provides confidence scores for each drug-disease pair. 176,021 predictions with score ≥ 0.7, indicating high confidence.</span>
+    <strong style="font-size: 1.1rem;">Ramalan Pembelajaran Mendalam</strong><br>
+    <span style="color: #666;">Model rangkaian neural TxGNN memberikan skor keyakinan untuk setiap pasangan ubat-penyakit. 176,021 ramalan dengan skor ≥ 0.7, menunjukkan keyakinan tinggi.</span>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #FB8C00;">
-    <strong style="font-size: 1.1rem;">Malaysia NPRA Integration</strong><br>
-    <span style="color: #666;">Focused on drugs registered with Malaysia's National Pharmaceutical Regulatory Agency (NPRA), ensuring relevance to local healthcare needs.</span>
+    <strong style="font-size: 1.1rem;">Integrasi NPRA Malaysia</strong><br>
+    <span style="color: #666;">Memfokuskan pada ubat yang berdaftar dengan Agensi Regulatori Farmaseutikal Kebangsaan Malaysia (NPRA), memastikan kesesuaian dengan keperluan penjagaan kesihatan tempatan.</span>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #9B59B6;">
-    <strong style="font-size: 1.1rem;">Evidence Collection</strong><br>
-    <span style="color: #666;">Automated collection of supporting evidence from ClinicalTrials.gov, PubMed, and other authoritative sources to validate predictions.</span>
+    <strong style="font-size: 1.1rem;">Pengumpulan Bukti</strong><br>
+    <span style="color: #666;">Pengumpulan automatik bukti sokongan dari ClinicalTrials.gov, PubMed, dan sumber berautoriti lain untuk mengesahkan ramalan.</span>
   </div>
 </div>
 
 ---
 
-## Top Predictions by Disease Category
+## Ramalan Teratas mengikut Kategori Penyakit
 
-| Disease Category | Predictions | Top Drug |
-|------------------|-------------|----------|
-| **Allergic Rhinitis** | 392 | Prednisolone, Betamethasone |
-| **Hypertension** | 366 | Multiple antihypertensives |
-| **Rheumatoid Arthritis** | 316 | Corticosteroids |
-| **Seborrheic Dermatitis** | 288 | Ketoconazole, Fusidic Acid |
-| **Asthma** | 259 | Bronchodilators, Steroids |
-
----
-
-## Quick Navigation
-
-| Section | Description | Link |
-|---------|-------------|------|
-| **Drug List** | Browse all 508 analyzed drugs | [View Drugs]({{ '/drugs' | relative_url }}) |
-| **Methodology** | Learn about our prediction approach | [Read More]({{ '/methodology' | relative_url }}) |
-| **Data Sources** | Explore our data sources | [View Sources]({{ '/DATA_SOURCES' | relative_url }}) |
-| **About** | Learn about this project | [About Us]({{ '/about' | relative_url }}) |
-| **Downloads** | Get prediction data | [Download]({{ '/downloads' | relative_url }}) |
-| **FHIR API** | Access via FHIR R4 | [API Docs]({{ '/fhir/metadata' | relative_url }}) |
+| Kategori Penyakit | Ramalan | Ubat Teratas |
+|-------------------|---------|--------------|
+| **Rinitis Alahan** | 392 | Prednisolone, Betamethasone |
+| **Hipertensi** | 366 | Pelbagai antihipertensi |
+| **Artritis Reumatoid** | 316 | Kortikosteroid |
+| **Dermatitis Seborreik** | 288 | Ketoconazole, Fusidic Acid |
+| **Asma** | 259 | Bronkodilator, Steroid |
 
 ---
 
-## About This Project
+## Navigasi Pantas
 
-<p class="key-answer" data-question="What technology does MyTxGNN use?">
-This platform uses the <a href="https://www.nature.com/articles/s41591-023-02233-x">TxGNN</a> deep learning model published in <em>Nature Medicine</em> by Harvard University's Zitnik Lab to predict potential new indications for Malaysia NPRA-approved drugs.
+| Bahagian | Penerangan | Pautan |
+|----------|------------|--------|
+| **Senarai Ubat** | Layari semua 508 ubat yang dianalisis | [Lihat Ubat]({{ '/drugs' | relative_url }}) |
+| **Metodologi** | Pelajari pendekatan ramalan kami | [Baca Lagi]({{ '/methodology' | relative_url }}) |
+| **Sumber Data** | Terokai sumber data kami | [Lihat Sumber]({{ '/sources' | relative_url }}) |
+| **Tentang** | Ketahui tentang projek ini | [Tentang Kami]({{ '/about' | relative_url }}) |
+| **Muat Turun** | Dapatkan data ramalan | [Muat Turun]({{ '/downloads' | relative_url }}) |
+| **FHIR API** | Akses melalui FHIR R4 | [Dokumentasi API]({{ '/fhir/metadata' | relative_url }}) |
+
+---
+
+## Tentang Projek Ini
+
+<p class="key-answer" data-question="Apakah teknologi yang digunakan MyTxGNN?">
+Platform ini menggunakan model pembelajaran mendalam <a href="https://www.nature.com/articles/s41591-023-02233-x">TxGNN</a> yang diterbitkan dalam <em>Nature Medicine</em> oleh Makmal Zitnik Universiti Harvard untuk meramalkan indikasi baharu berpotensi bagi ubat yang diluluskan NPRA Malaysia.
 </p>
 
 <blockquote class="expert-quote">
-"TxGNN is the first foundation model for drug repurposing designed specifically for clinicians, integrating knowledge graphs with deep learning to predict drug efficacy for rare diseases."
+"TxGNN adalah model asas pertama untuk penggunaan semula ubat yang direka khusus untuk doktor, mengintegrasikan graf pengetahuan dengan pembelajaran mendalam untuk meramalkan keberkesanan ubat bagi penyakit jarang."
 <cite>— Huang et al., Nature Medicine (2023)</cite>
 </blockquote>
 
-### Data Scale
+### Skala Data
 
-| Item | Count |
-|------|-------|
-| NPRA Registered Products | 27,938 |
-| Drugs with DrugBank Mapping | 508 |
-| KG Predictions | 41,560 |
-| DL High-Score Predictions | 176,021 |
-| Unique Diseases | 17,041 |
+| Item | Jumlah |
+|------|--------|
+| Produk Berdaftar NPRA | 27,938 |
+| Ubat dengan Pemetaan DrugBank | 508 |
+| Ramalan KG | 41,560 |
+| Ramalan DL Skor Tinggi | 176,021 |
+| Penyakit Unik | 17,041 |
 
-[Learn More]({{ '/about' | relative_url }}) | [Methodology]({{ '/methodology' | relative_url }}) | [Data Sources]({{ '/DATA_SOURCES' | relative_url }})
+[Ketahui Lebih Lanjut]({{ '/about' | relative_url }}) | [Metodologi]({{ '/methodology' | relative_url }}) | [Sumber Data]({{ '/sources' | relative_url }})
 
 ---
 
-## Data Sources
+## Sumber Data
 
-<p class="key-answer" data-question="What are the data sources for MyTxGNN?">
-This platform integrates multiple authoritative public data sources to ensure prediction traceability and academic value.
+<p class="key-answer" data-question="Apakah sumber data MyTxGNN?">
+Platform ini mengintegrasikan pelbagai sumber data awam berautoriti untuk memastikan kebolehkesanan ramalan dan nilai akademik.
 </p>
 
 <style>
@@ -165,31 +165,31 @@ This platform integrates multiple authoritative public data sources to ensure pr
   </a>
   <a href="https://clinicaltrials.gov/" target="_blank" rel="noopener" class="data-source-card">
     <strong style="color: #205493;">ClinicalTrials.gov</strong>
-    <small>NIH Clinical Trials</small>
+    <small>Ujian Klinikal NIH</small>
   </a>
   <a href="https://pubmed.ncbi.nlm.nih.gov/" target="_blank" rel="noopener" class="data-source-card">
     <strong style="color: #326599;">PubMed</strong>
-    <small>Biomedical Literature</small>
+    <small>Literatur Bioperubatan</small>
   </a>
   <a href="https://go.drugbank.com/" target="_blank" rel="noopener" class="data-source-card">
     <strong style="color: #E74C3C;">DrugBank</strong>
-    <small>Drug Database</small>
+    <small>Pangkalan Data Ubat</small>
   </a>
   <a href="https://npra.gov.my/" target="_blank" rel="noopener" class="data-source-card">
     <strong style="color: #00A651;">NPRA Malaysia</strong>
-    <small>National Pharma Agency</small>
+    <small>Agensi Farmaseutikal Kebangsaan</small>
   </a>
   <a href="https://data.gov.my/" target="_blank" rel="noopener" class="data-source-card">
     <strong style="color: #1976D2;">data.gov.my</strong>
-    <small>Open Data Portal</small>
+    <small>Portal Data Terbuka</small>
   </a>
 </div>
 
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-This report is for <strong>academic research purposes only</strong> and does not constitute medical advice. Drug use should follow physician guidance. Do not self-adjust medications. Any drug repurposing decisions require complete clinical validation and regulatory review.
+<strong>Penafian</strong><br>
+Laporan ini adalah untuk <strong>tujuan penyelidikan akademik sahaja</strong> dan bukan nasihat perubatan. Penggunaan ubat hendaklah mengikut panduan doktor. Jangan mengubah ubatan sendiri. Sebarang keputusan penggunaan semula ubat memerlukan pengesahan klinikal lengkap dan semakan regulatori.
 <br><br>
-<small>Last updated: 2026-03-03 | MyTxGNN Research Team</small>
+<small>Kemas kini terakhir: 2026-03-03 | Pasukan Penyelidikan MyTxGNN</small>
 </div>

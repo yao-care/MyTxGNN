@@ -1,58 +1,58 @@
 ---
 layout: default
-title: Drug-Disease Safety
-parent: Safety Data
+title: Keselamatan Ubat-Penyakit
+parent: Data Keselamatan
 nav_order: 2
-description: "MyTxGNN Drug-Disease Safety Information database for evaluating drug safety risks in specific patient populations."
+description: "Pangkalan data Maklumat Keselamatan Ubat-Penyakit MyTxGNN untuk menilai risiko keselamatan ubat dalam populasi pesakit tertentu."
 permalink: /ddsi/
 ---
 
-# Drug-Disease Safety Information (DDSI)
+# Maklumat Keselamatan Ubat-Penyakit (DDSI)
 
-<p class="key-answer" data-question="What is DDSI?">
-<strong>Drug-Disease Safety Information (DDSI)</strong> refers to warnings about drugs that may worsen conditions or cause adverse reactions in patients with specific diseases. This helps researchers consider patient comorbidities when evaluating drug repurposing candidates.
+<p class="key-answer" data-question="Apakah DDSI?">
+<strong>Maklumat Keselamatan Ubat-Penyakit (DDSI)</strong> merujuk kepada amaran tentang ubat yang mungkin memburukkan keadaan atau menyebabkan reaksi buruk pada pesakit dengan penyakit tertentu. Ini membantu penyelidik mempertimbangkan komorbiditi pesakit apabila menilai calon penggunaan semula ubat.
 </p>
 
 <div class="key-takeaway">
-When repurposing drugs, it's essential to consider the common comorbidities of the target patient population. For example, when using a drug for cancer patients, consider their common liver and kidney function abnormalities.
+Apabila menggunakan semula ubat, adalah penting untuk mempertimbangkan komorbiditi biasa populasi pesakit sasaran. Contohnya, apabila menggunakan ubat untuk pesakit kanser, pertimbangkan keabnormalan fungsi hati dan buah pinggang yang biasa mereka alami.
 </div>
 
 ---
 
-## What is DDSI?
+## Apakah DDSI?
 
-When drugs are used in patients with certain diseases, they may:
+Apabila ubat digunakan pada pesakit dengan penyakit tertentu, ia mungkin:
 
-| Situation | Description | Example |
-|-----------|-------------|---------|
-| **Disease Worsening** | Drug may aggravate existing condition | NSAIDs worsening kidney function |
-| **Altered Efficacy** | Disease state affects drug metabolism | Cirrhosis affecting drug clearance |
-| **Increased Toxicity** | Disease makes organs more susceptible | Heart failure patients more sensitive to digoxin |
-| **Symptom Masking** | Drug may hide disease signs | Beta-blockers masking hypoglycemia symptoms |
+| Situasi | Penerangan | Contoh |
+|---------|------------|--------|
+| **Memburukkan Penyakit** | Ubat mungkin memburukkan keadaan sedia ada | NSAID memburukkan fungsi buah pinggang |
+| **Keberkesanan Berubah** | Keadaan penyakit mempengaruhi metabolisme ubat | Sirosis mempengaruhi pelepasan ubat |
+| **Peningkatan Toksisiti** | Penyakit menjadikan organ lebih mudah terjejas | Pesakit kegagalan jantung lebih sensitif kepada digoxin |
+| **Penyembunyian Gejala** | Ubat mungkin menyembunyikan tanda penyakit | Penyekat beta menyembunyikan gejala hipoglisemia |
 
 ---
 
-## Data Source
+## Sumber Data
 
 <table class="comparison-table">
 <thead>
-<tr><th>Item</th><th>Information</th></tr>
+<tr><th>Item</th><th>Maklumat</th></tr>
 </thead>
 <tbody>
 <tr>
-  <td>Data Source</td>
+  <td>Sumber Data</td>
   <td><a href="https://ddinter2.scbdd.com/" target="_blank" rel="noopener">DDInter 2.0</a></td>
 </tr>
 <tr>
-  <td>DDSI Records</td>
+  <td>Rekod DDSI</td>
   <td>8,359</td>
 </tr>
 <tr>
-  <td>Drugs Covered</td>
+  <td>Ubat Diliputi</td>
   <td>115</td>
 </tr>
 <tr>
-  <td>License</td>
+  <td>Lesen</td>
   <td>CC BY-NC-SA 4.0</td>
 </tr>
 </tbody>
@@ -60,69 +60,69 @@ When drugs are used in patients with certain diseases, they may:
 
 ---
 
-## DDSI Severity Levels
+## Tahap Keterukan DDSI
 
-| Level | English | Description | Recommended Action |
-|-------|---------|-------------|-------------------|
-| **Severe** | Major | Absolute contraindication or life-threatening | Avoid use, find alternatives |
-| **Moderate** | Moderate | May require dose adjustment or monitoring | Use with caution, monitor closely |
-| **Mild** | Minor | Low clinical significance | Generally safe, monitor if needed |
+| Tahap | Bahasa Inggeris | Penerangan | Tindakan Disyorkan |
+|-------|-----------------|------------|-------------------|
+| **Teruk** | Major | Kontraindikasi mutlak atau mengancam nyawa | Elakkan penggunaan, cari alternatif |
+| **Sederhana** | Moderate | Mungkin memerlukan pelarasan dos atau pemantauan | Guna dengan berhati-hati, pantau rapi |
+| **Ringan** | Minor | Kepentingan klinikal rendah | Secara amnya selamat, pantau jika perlu |
 
 ---
 
-## Common Drug-Disease Considerations
+## Pertimbangan Ubat-Penyakit Biasa
 
-### Liver Disease
+### Penyakit Hati
 
 <ol class="actionable-steps">
-<li><strong>Hepatotoxic drugs contraindicated</strong>: Avoid in severe liver impairment</li>
-<li><strong>Dose adjustment needed</strong>: Reduce doses for hepatically metabolized drugs</li>
-<li><strong>Coagulation concerns</strong>: Increased risk with anticoagulants in cirrhosis</li>
+<li><strong>Ubat hepatotoksik dikontraindikasikan</strong>: Elakkan dalam kegagalan hati teruk</li>
+<li><strong>Pelarasan dos diperlukan</strong>: Kurangkan dos untuk ubat yang dimetabolismekan oleh hati</li>
+<li><strong>Kebimbangan pembekuan</strong>: Risiko meningkat dengan antikoagulan dalam sirosis</li>
 </ol>
 
-### Kidney Disease
+### Penyakit Buah Pinggang
 
-- Adjust doses for renally excreted drugs
-- Avoid or use nephrotoxic drugs cautiously
-- Monitor electrolyte changes
+- Laraskan dos untuk ubat yang dikumuhkan melalui buah pinggang
+- Elakkan atau gunakan ubat nefrotoksik dengan berhati-hati
+- Pantau perubahan elektrolit
 
-### Cardiovascular Disease
+### Penyakit Kardiovaskular
 
-- Heart failure patients more sensitive to certain drugs
-- QT prolongation risk drugs need arrhythmia history review
-- Hypotension risk drugs need cardiovascular status assessment
+- Pesakit kegagalan jantung lebih sensitif kepada ubat tertentu
+- Ubat berisiko pemanjangan QT perlu semakan sejarah aritmia
+- Ubat berisiko hipotensi perlu penilaian status kardiovaskular
 
 ---
 
-## Application in Drug Repurposing
+## Aplikasi dalam Penggunaan Semula Ubat
 
 <blockquote class="expert-quote">
-"When evaluating drug repurposing, we must consider not only whether the drug is effective for the new indication, but also the comorbidity characteristics of the target patient population to avoid safety issues."
-<cite>— Drug Safety Assessment Principles</cite>
+"Apabila menilai penggunaan semula ubat, kita mesti mempertimbangkan bukan sahaja sama ada ubat itu berkesan untuk indikasi baharu, tetapi juga ciri-ciri komorbiditi populasi pesakit sasaran untuk mengelakkan isu keselamatan."
+<cite>— Prinsip Penilaian Keselamatan Ubat</cite>
 </blockquote>
 
-### Evaluation Process
+### Proses Penilaian
 
-1. **Identify Target Population**: Understand common comorbidities
-2. **Cross-reference DDSI Data**: Check for contraindications
-3. **Risk-Benefit Assessment**: Weigh efficacy against potential risks
-4. **Monitoring Plan**: Design surveillance for high-risk groups
+1. **Kenal Pasti Populasi Sasaran**: Fahami komorbiditi biasa
+2. **Rujuk Silang Data DDSI**: Semak kontraindikasi
+3. **Penilaian Risiko-Faedah**: Timbang keberkesanan terhadap risiko berpotensi
+4. **Rancangan Pemantauan**: Reka pengawasan untuk kumpulan berisiko tinggi
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Description | Link |
-|----------|-------------|------|
-| Drug-Drug Interactions | DDI database | [Go]({{ '/ddi/' | relative_url }}) |
-| Drug-Food Interactions | DFI database | [Go]({{ '/dfi/' | relative_url }}) |
-| Drug-Herb Interactions | DHI database | [Go]({{ '/dhi/' | relative_url }}) |
+| Sumber | Penerangan | Pautan |
+|--------|------------|--------|
+| Interaksi Ubat-Ubat | Pangkalan data DDI | [Pergi]({{ '/ddi/' | relative_url }}) |
+| Interaksi Ubat-Makanan | Pangkalan data DFI | [Pergi]({{ '/dfi/' | relative_url }}) |
+| Interaksi Ubat-Herba | Pangkalan data DHI | [Pergi]({{ '/dhi/' | relative_url }}) |
 
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-DDSI data on this page is for research reference only and <strong>does not constitute medication advice</strong>. Actual medication decisions should consult professional pharmacists or physicians. Drug effects on specific diseases vary by individual factors.
+<strong>Penafian</strong><br>
+Data DDSI di halaman ini adalah untuk rujukan penyelidikan sahaja dan <strong>bukan nasihat pengubatan</strong>. Keputusan pengubatan sebenar hendaklah berunding dengan farmasis atau doktor profesional. Kesan ubat terhadap penyakit tertentu berbeza mengikut faktor individu.
 <br><br>
-<small>Last reviewed: 2026-03-03 | Reviewer: MyTxGNN Research Team</small>
+<small>Disemak terakhir: 2026-03-03 | Penyemak: Pasukan Penyelidikan MyTxGNN</small>
 </div>

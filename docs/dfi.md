@@ -1,58 +1,58 @@
 ---
 layout: default
-title: Drug-Food Interactions
-parent: Safety Data
+title: Interaksi Ubat-Makanan
+parent: Data Keselamatan
 nav_order: 3
-description: "MyTxGNN Drug-Food Interaction database covering 29 common foods that may affect drug efficacy."
+description: "Pangkalan data Interaksi Ubat-Makanan MyTxGNN meliputi 29 makanan biasa yang mungkin mempengaruhi keberkesanan ubat."
 permalink: /dfi/
 ---
 
-# Drug-Food Interactions (DFI)
+# Interaksi Ubat-Makanan (DFI)
 
-<p class="key-answer" data-question="What is Drug-Food Interaction?">
-<strong>Drug-Food Interaction (DFI)</strong> refers to how food components affect drug absorption, metabolism, or efficacy. Understanding these interactions is important for drug repurposing research as different patient populations may have different dietary habits.
+<p class="key-answer" data-question="Apakah Interaksi Ubat-Makanan?">
+<strong>Interaksi Ubat-Makanan (DFI)</strong> merujuk kepada bagaimana komponen makanan mempengaruhi penyerapan, metabolisme, atau keberkesanan ubat. Memahami interaksi ini adalah penting untuk penyelidikan penggunaan semula ubat kerana populasi pesakit berbeza mungkin mempunyai tabiat pemakanan berbeza.
 </p>
 
 <div class="key-takeaway">
-Drug-food interactions are often overlooked but very important for drug repurposing research. Different disease patient populations may have different dietary habits, and these factors need to be considered for their effects on drug efficacy.
+Interaksi ubat-makanan sering diabaikan tetapi sangat penting untuk penyelidikan penggunaan semula ubat. Populasi pesakit penyakit berbeza mungkin mempunyai tabiat pemakanan berbeza, dan faktor ini perlu dipertimbangkan untuk kesannya terhadap keberkesanan ubat.
 </div>
 
 ---
 
-## What is DFI?
+## Apakah DFI?
 
-Food and drug interactions occur mainly through these mechanisms:
+Interaksi makanan dan ubat berlaku terutamanya melalui mekanisme ini:
 
-| Mechanism | Description | Example |
-|-----------|-------------|---------|
-| **Absorption Effect** | Food alters drug absorption in gut | Calcium reducing antibiotic absorption |
-| **Metabolism Effect** | Food components affect liver enzyme activity | Grapefruit inhibiting CYP3A4 |
-| **Synergistic Action** | Food enhances drug effect | High potassium foods + potassium-sparing diuretics |
-| **Antagonistic Action** | Food weakens drug effect | Vitamin K + Warfarin |
+| Mekanisme | Penerangan | Contoh |
+|-----------|------------|--------|
+| **Kesan Penyerapan** | Makanan mengubah penyerapan ubat dalam usus | Kalsium mengurangkan penyerapan antibiotik |
+| **Kesan Metabolisme** | Komponen makanan mempengaruhi aktiviti enzim hati | Limau gedang merencat CYP3A4 |
+| **Tindakan Sinergistik** | Makanan meningkatkan kesan ubat | Makanan kalium tinggi + diuretik penjimat kalium |
+| **Tindakan Antagonistik** | Makanan melemahkan kesan ubat | Vitamin K + Warfarin |
 
 ---
 
-## Data Source
+## Sumber Data
 
 <table class="comparison-table">
 <thead>
-<tr><th>Item</th><th>Information</th></tr>
+<tr><th>Item</th><th>Maklumat</th></tr>
 </thead>
 <tbody>
 <tr>
-  <td>Data Source</td>
+  <td>Sumber Data</td>
   <td><a href="https://ddinter2.scbdd.com/" target="_blank" rel="noopener">DDInter 2.0</a></td>
 </tr>
 <tr>
-  <td>DFI Records</td>
+  <td>Rekod DFI</td>
   <td>857</td>
 </tr>
 <tr>
-  <td>Food Types Covered</td>
+  <td>Jenis Makanan Diliputi</td>
   <td>29</td>
 </tr>
 <tr>
-  <td>License</td>
+  <td>Lesen</td>
   <td>CC BY-NC-SA 4.0</td>
 </tr>
 </tbody>
@@ -60,95 +60,95 @@ Food and drug interactions occur mainly through these mechanisms:
 
 ---
 
-## DFI Severity Levels
+## Tahap Keterukan DFI
 
-| Level | English | Description | Recommended Action |
-|-------|---------|-------------|-------------------|
-| **Severe** | Major | Significantly affects efficacy or causes toxicity | Avoid concurrent intake, patient education |
-| **Moderate** | Moderate | May need timing or dose adjustment | Recommend separating intake |
-| **Mild** | Minor | Low clinical significance | Generally safe to combine |
+| Tahap | Bahasa Inggeris | Penerangan | Tindakan Disyorkan |
+|-------|-----------------|------------|-------------------|
+| **Teruk** | Major | Mempengaruhi keberkesanan dengan ketara atau menyebabkan toksisiti | Elakkan pengambilan serentak, pendidikan pesakit |
+| **Sederhana** | Moderate | Mungkin memerlukan pelarasan masa atau dos | Syorkan pemisahan pengambilan |
+| **Ringan** | Minor | Kepentingan klinikal rendah | Secara amnya selamat untuk digabungkan |
 
 ---
 
-## Common Drug-Food Interactions
+## Interaksi Ubat-Makanan Biasa
 
-### Grapefruit
+### Limau Gedang (Grapefruit)
 
-<p class="key-answer" data-question="How does grapefruit affect drugs?">
-Grapefruit contains furanocoumarins that inhibit intestinal CYP3A4 enzymes, causing elevated blood levels of many drugs and potentially increasing side effect risks.
+<p class="key-answer" data-question="Bagaimana limau gedang mempengaruhi ubat?">
+Limau gedang mengandungi furanocoumarin yang merencat enzim CYP3A4 usus, menyebabkan paras darah banyak ubat meningkat dan berpotensi meningkatkan risiko kesan sampingan.
 </p>
 
-Commonly affected drugs:
-- Statins (cholesterol-lowering drugs)
-- Calcium channel blockers
-- Some immunosuppressants
-- Certain anti-arrhythmic drugs
+Ubat yang biasa terjejas:
+- Statin (ubat penurun kolesterol)
+- Penyekat saluran kalsium
+- Sesetengah imunosupresan
+- Ubat anti-aritmia tertentu
 
-### High Vitamin K Foods
+### Makanan Tinggi Vitamin K
 
 <ol class="actionable-steps">
-<li>Dark green vegetables (spinach, kale) contain high vitamin K</li>
-<li>May reduce Warfarin and other anticoagulant effects</li>
-<li>Recommend maintaining stable vitamin K intake rather than complete avoidance</li>
+<li>Sayuran hijau gelap (bayam, kale) mengandungi vitamin K tinggi</li>
+<li>Mungkin mengurangkan kesan Warfarin dan antikoagulan lain</li>
+<li>Syorkan mengekalkan pengambilan vitamin K yang stabil dan bukannya pengelakan sepenuhnya</li>
 </ol>
 
-### Dairy Products
+### Produk Tenusu
 
-- Calcium binds with certain antibiotics (e.g., Fluoroquinolones)
-- Reduces drug absorption
-- Recommend 2-hour interval between intake
+- Kalsium mengikat dengan antibiotik tertentu (cth. Fluoroquinolone)
+- Mengurangkan penyerapan ubat
+- Syorkan selang 2 jam antara pengambilan
 
-### Alcohol
+### Alkohol
 
-- Enhances CNS depressant effects
-- May increase hepatotoxic drug risks
-- Some drugs cause disulfiram-like reaction
-
----
-
-## Food Categories Covered
-
-This database covers 29 common foods/food components:
-
-| Category | Foods |
-|----------|-------|
-| **Fruits** | Grapefruit, citrus, cranberry |
-| **Vegetables** | Spinach, kale, broccoli |
-| **Dairy** | Milk, cheese, yogurt |
-| **Beverages** | Coffee, tea, alcohol |
-| **Others** | High fiber foods, high fat foods, seafood |
+- Meningkatkan kesan depresan CNS
+- Mungkin meningkatkan risiko ubat hepatotoksik
+- Sesetengah ubat menyebabkan reaksi seperti disulfiram
 
 ---
 
-## Application in Drug Repurposing
+## Kategori Makanan Diliputi
+
+Pangkalan data ini meliputi 29 makanan/komponen makanan biasa:
+
+| Kategori | Makanan |
+|----------|---------|
+| **Buah-buahan** | Limau gedang, sitrus, cranberry |
+| **Sayur-sayuran** | Bayam, kale, brokoli |
+| **Tenusu** | Susu, keju, yogurt |
+| **Minuman** | Kopi, teh, alkohol |
+| **Lain-lain** | Makanan serat tinggi, makanan lemak tinggi, makanan laut |
+
+---
+
+## Aplikasi dalam Penggunaan Semula Ubat
 
 <blockquote class="expert-quote">
-"Drug repurposing research needs to consider the dietary habits of target patient populations. For example, if new indication patients commonly need specific nutritional supplements, we must evaluate interactions between these foods and candidate drugs."
-<cite>— Drug Safety Assessment Principles</cite>
+"Penyelidikan penggunaan semula ubat perlu mempertimbangkan tabiat pemakanan populasi pesakit sasaran. Contohnya, jika pesakit indikasi baharu biasanya memerlukan suplemen pemakanan tertentu, kita mesti menilai interaksi antara makanan ini dan ubat calon."
+<cite>— Prinsip Penilaian Keselamatan Ubat</cite>
 </blockquote>
 
-### Evaluation Points
+### Perkara Penilaian
 
-1. **Target population dietary characteristics**: Understand common dietary habits
-2. **Supplement use**: Many chronic disease patients take health supplements
-3. **Special dietary needs**: Diabetic low-sugar diets, renal patient low-potassium diets
-4. **Cultural factors**: Regional dietary habit differences
+1. **Ciri pemakanan populasi sasaran**: Fahami tabiat pemakanan biasa
+2. **Penggunaan suplemen**: Ramai pesakit kronik mengambil suplemen kesihatan
+3. **Keperluan diet khas**: Diet rendah gula diabetik, diet rendah kalium pesakit buah pinggang
+4. **Faktor budaya**: Perbezaan tabiat pemakanan mengikut kawasan
 
 ---
 
-## Related Resources
+## Sumber Berkaitan
 
-| Resource | Description | Link |
-|----------|-------------|------|
-| Drug-Drug Interactions | DDI database | [Go]({{ '/ddi/' | relative_url }}) |
-| Drug-Disease Safety | DDSI database | [Go]({{ '/ddsi/' | relative_url }}) |
-| Drug-Herb Interactions | DHI database | [Go]({{ '/dhi/' | relative_url }}) |
+| Sumber | Penerangan | Pautan |
+|--------|------------|--------|
+| Interaksi Ubat-Ubat | Pangkalan data DDI | [Pergi]({{ '/ddi/' | relative_url }}) |
+| Keselamatan Ubat-Penyakit | Pangkalan data DDSI | [Pergi]({{ '/ddsi/' | relative_url }}) |
+| Interaksi Ubat-Herba | Pangkalan data DHI | [Pergi]({{ '/dhi/' | relative_url }}) |
 
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-DFI data on this page is for research reference only and <strong>does not constitute dietary or medication advice</strong>. Dietary considerations during medication should consult professional pharmacists or physicians. Drug-food interactions vary by individual factors.
+<strong>Penafian</strong><br>
+Data DFI di halaman ini adalah untuk rujukan penyelidikan sahaja dan <strong>bukan nasihat pemakanan atau pengubatan</strong>. Pertimbangan pemakanan semasa pengubatan hendaklah berunding dengan farmasis atau doktor profesional. Interaksi ubat-makanan berbeza mengikut faktor individu.
 <br><br>
-<small>Last reviewed: 2026-03-03 | Reviewer: MyTxGNN Research Team</small>
+<small>Disemak terakhir: 2026-03-03 | Penyemak: Pasukan Penyelidikan MyTxGNN</small>
 </div>

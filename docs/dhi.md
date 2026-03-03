@@ -1,138 +1,138 @@
 ---
 layout: default
-title: Drug-Herb Interactions
-parent: Safety Data
+title: Interaksi Ubat-Herba
+parent: Data Keselamatan
 nav_order: 4
-description: "MyTxGNN Drug-Herb Interaction database for evaluating interactions between conventional drugs and herbal medicines."
+description: "Pangkalan data Interaksi Ubat-Herba MyTxGNN untuk menilai interaksi antara ubat konvensional dan ubat herba."
 permalink: /dhi/
 ---
 
-# Drug-Herb Interactions (DHI)
+# Interaksi Ubat-Herba (DHI)
 
-<p class="key-answer" data-question="What is Drug-Herb Interaction?">
-<strong>Drug-Herb Interaction (DHI)</strong> refers to interactions between conventional drugs and herbal medicines or traditional remedies. This is particularly relevant in Malaysia where traditional medicine use is common.
+<p class="key-answer" data-question="Apakah Interaksi Ubat-Herba?">
+<strong>Interaksi Ubat-Herba (DHI)</strong> merujuk kepada interaksi antara ubat konvensional dan ubat herba atau remedi tradisional. Ini amat relevan di Malaysia di mana penggunaan ubat tradisional adalah biasa.
 </p>
 
 <div class="key-takeaway">
-Malaysia has a rich tradition of herbal medicine use including Malay traditional medicine, Traditional Chinese Medicine (TCM), and Ayurvedic practices. Understanding drug-herb interactions is essential for safe drug repurposing.
+Malaysia mempunyai tradisi penggunaan ubat herba yang kaya termasuk perubatan tradisional Melayu, Perubatan Tradisional Cina (TCM), dan amalan Ayurveda. Memahami interaksi ubat-herba adalah penting untuk penggunaan semula ubat yang selamat.
 </div>
 
 ---
 
-## What is DHI?
+## Apakah DHI?
 
-Herbal medicines can interact with conventional drugs through:
+Ubat herba boleh berinteraksi dengan ubat konvensional melalui:
 
-| Mechanism | Description | Example |
-|-----------|-------------|---------|
-| **Pharmacokinetic** | Herbs alter drug absorption, metabolism, or excretion | St. John's Wort inducing CYP3A4 |
-| **Pharmacodynamic** | Herbs enhance or antagonize drug effects | Ginkgo increasing bleeding risk with anticoagulants |
-| **Direct Interaction** | Chemical binding or reaction | Charcoal reducing drug absorption |
-| **Organ Toxicity** | Combined effects on organ systems | Multiple hepatotoxic substances |
+| Mekanisme | Penerangan | Contoh |
+|-----------|------------|--------|
+| **Farmakokinetik** | Herba mengubah penyerapan, metabolisme, atau pengumuhan ubat | St. John's Wort mendorong CYP3A4 |
+| **Farmakodinamik** | Herba meningkatkan atau menentang kesan ubat | Ginkgo meningkatkan risiko pendarahan dengan antikoagulan |
+| **Interaksi Langsung** | Ikatan atau reaksi kimia | Arang mengurangkan penyerapan ubat |
+| **Toksisiti Organ** | Kesan gabungan pada sistem organ | Pelbagai bahan hepatotoksik |
 
 ---
 
-## Common Drug-Herb Interactions
+## Interaksi Ubat-Herba Biasa
 
 ### St. John's Wort (Hypericum perforatum)
 
-<p class="key-answer" data-question="Why is St. John's Wort problematic?">
-St. John's Wort is a potent inducer of CYP3A4 and P-glycoprotein, significantly reducing levels of many drugs including immunosuppressants, antivirals, and oral contraceptives.
+<p class="key-answer" data-question="Mengapa St. John's Wort bermasalah?">
+St. John's Wort adalah pendorong kuat CYP3A4 dan P-glikoprotein, mengurangkan paras banyak ubat termasuk imunosupresan, antiviral, dan kontraseptif oral dengan ketara.
 </p>
 
-Affected drug classes:
-- Immunosuppressants (cyclosporine, tacrolimus)
-- HIV protease inhibitors
-- Oral contraceptives
+Kelas ubat yang terjejas:
+- Imunosupresan (cyclosporine, tacrolimus)
+- Perencat protease HIV
+- Kontraseptif oral
 - Warfarin
-- Certain antidepressants
+- Antidepresan tertentu
 
 ### Ginkgo Biloba
 
-- Increases bleeding risk with anticoagulants
-- May lower seizure threshold
-- Potential interactions with diabetes medications
+- Meningkatkan risiko pendarahan dengan antikoagulan
+- Mungkin menurunkan ambang sawan
+- Interaksi berpotensi dengan ubat diabetes
 
 ### Ginseng
 
 <ol class="actionable-steps">
-<li>May affect blood glucose levels</li>
-<li>Potential interaction with warfarin</li>
-<li>May cause hypertension with stimulants</li>
+<li>Mungkin mempengaruhi paras glukosa darah</li>
+<li>Interaksi berpotensi dengan warfarin</li>
+<li>Mungkin menyebabkan hipertensi dengan stimulan</li>
 </ol>
 
-### Traditional Medicine Considerations
+### Pertimbangan Ubat Tradisional
 
-In Malaysia, common traditional medicines include:
+Di Malaysia, ubat tradisional biasa termasuk:
 
-| Tradition | Common Herbs | Considerations |
-|-----------|--------------|----------------|
-| **Malay Traditional** | Tongkat Ali, Kacip Fatimah | Hormonal interactions |
-| **TCM** | Ginseng, Ginkgo, Licorice | CYP450 interactions |
-| **Ayurvedic** | Ashwagandha, Turmeric | Anti-inflammatory interactions |
-
----
-
-## DHI Severity Levels
-
-| Level | Description | Recommended Action |
-|-------|-------------|-------------------|
-| **Major** | Significant clinical effects possible | Avoid combination |
-| **Moderate** | May need monitoring or dose adjustment | Use with caution |
-| **Minor** | Unlikely to be clinically significant | Monitor if needed |
+| Tradisi | Herba Biasa | Pertimbangan |
+|---------|-------------|--------------|
+| **Tradisional Melayu** | Tongkat Ali, Kacip Fatimah | Interaksi hormon |
+| **TCM** | Ginseng, Ginkgo, Licorice | Interaksi CYP450 |
+| **Ayurveda** | Ashwagandha, Kunyit | Interaksi anti-radang |
 
 ---
 
-## Application in Drug Repurposing
+## Tahap Keterukan DHI
 
-### Why DHI Matters for Malaysia
+| Tahap | Penerangan | Tindakan Disyorkan |
+|-------|------------|-------------------|
+| **Teruk** | Kesan klinikal signifikan mungkin | Elakkan gabungan |
+| **Sederhana** | Mungkin memerlukan pemantauan atau pelarasan dos | Guna dengan berhati-hati |
+| **Ringan** | Tidak mungkin signifikan secara klinikal | Pantau jika perlu |
 
-1. **High herbal medicine use**: Many Malaysians use traditional medicines
-2. **Self-medication**: Herbal products often used without healthcare consultation
-3. **Multiple traditions**: Diverse traditional medicine practices
-4. **Underreporting**: Herbal use often not disclosed to healthcare providers
+---
 
-### Evaluation Considerations
+## Aplikasi dalam Penggunaan Semula Ubat
+
+### Mengapa DHI Penting untuk Malaysia
+
+1. **Penggunaan ubat herba tinggi**: Ramai rakyat Malaysia menggunakan ubat tradisional
+2. **Pengubatan sendiri**: Produk herba sering digunakan tanpa perundingan penjagaan kesihatan
+3. **Pelbagai tradisi**: Amalan perubatan tradisional yang pelbagai
+4. **Kurang dilaporkan**: Penggunaan herba sering tidak didedahkan kepada penyedia penjagaan kesihatan
+
+### Pertimbangan Penilaian
 
 <blockquote class="expert-quote">
-"When repurposing drugs for use in Malaysia, consider the high prevalence of traditional medicine use. Patient education about potential interactions is essential."
-<cite>— Drug Safety Considerations</cite>
+"Apabila menggunakan semula ubat untuk kegunaan di Malaysia, pertimbangkan kelaziman tinggi penggunaan ubat tradisional. Pendidikan pesakit tentang interaksi berpotensi adalah penting."
+<cite>— Pertimbangan Keselamatan Ubat</cite>
 </blockquote>
 
 ---
 
-## Data Sources
+## Sumber Data
 
-Drug-herb interaction information is compiled from:
+Maklumat interaksi ubat-herba dikumpulkan dari:
 
-- DDInter 2.0 database
-- Published literature reviews
-- Pharmacovigilance reports
-- Traditional medicine databases
-
----
-
-## Related Resources
-
-| Resource | Description | Link |
-|----------|-------------|------|
-| Drug-Drug Interactions | DDI database | [Go]({{ '/ddi/' | relative_url }}) |
-| Drug-Disease Safety | DDSI database | [Go]({{ '/ddsi/' | relative_url }}) |
-| Drug-Food Interactions | DFI database | [Go]({{ '/dfi/' | relative_url }}) |
+- Pangkalan data DDInter 2.0
+- Ulasan literatur yang diterbitkan
+- Laporan farmakovigilans
+- Pangkalan data ubat tradisional
 
 ---
 
-## External Resources
+## Sumber Berkaitan
 
-- [NPRA Traditional Medicines](https://www.npra.gov.my/)
+| Sumber | Penerangan | Pautan |
+|--------|------------|--------|
+| Interaksi Ubat-Ubat | Pangkalan data DDI | [Pergi]({{ '/ddi/' | relative_url }}) |
+| Keselamatan Ubat-Penyakit | Pangkalan data DDSI | [Pergi]({{ '/ddsi/' | relative_url }}) |
+| Interaksi Ubat-Makanan | Pangkalan data DFI | [Pergi]({{ '/dfi/' | relative_url }}) |
+
+---
+
+## Sumber Luaran
+
+- [Ubat Tradisional NPRA](https://www.npra.gov.my/)
 - [Natural Medicines Database](https://naturalmedicines.therapeuticresearch.com/)
 - [Memorial Sloan Kettering Herb Database](https://www.mskcc.org/cancer-care/diagnosis-treatment/symptom-management/integrative-medicine/herbs)
 
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-DHI data on this page is for research reference only and <strong>does not constitute medical advice</strong>. Always inform your healthcare provider about any herbal medicines or traditional remedies you are taking. Drug-herb interactions vary by individual factors and product quality.
+<strong>Penafian</strong><br>
+Data DHI di halaman ini adalah untuk rujukan penyelidikan sahaja dan <strong>bukan nasihat perubatan</strong>. Sentiasa maklumkan penyedia penjagaan kesihatan anda tentang sebarang ubat herba atau remedi tradisional yang anda ambil. Interaksi ubat-herba berbeza mengikut faktor individu dan kualiti produk.
 <br><br>
-<small>Last reviewed: 2026-03-03 | Reviewer: MyTxGNN Research Team</small>
+<small>Disemak terakhir: 2026-03-03 | Penyemak: Pasukan Penyelidikan MyTxGNN</small>
 </div>
