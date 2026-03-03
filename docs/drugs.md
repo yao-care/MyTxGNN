@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Drug List
+title: Senarai Ubat
+parent: Laporan Ubat
 nav_order: 4
 description: "Browse all 508 drugs with drug repurposing predictions from MyTxGNN"
 permalink: /drugs/

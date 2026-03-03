@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Privacy Policy
-nav_order: 10
+title: Dasar Privasi
+parent: Bantuan
+nav_order: 4
 description: "Privacy policy for MyTxGNN drug repurposing platform"
 permalink: /privacy-policy/
 ---

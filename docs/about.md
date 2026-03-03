@@ -1,6 +1,7 @@
 ---
 layout: default
-title: About
+title: Tentang Projek
+parent: Bantuan
 nav_order: 3
 description: "MyTxGNN is a drug repurposing prediction platform based on Harvard's TxGNN model, focused on Malaysia NPRA-approved drugs."
 permalink: /about/

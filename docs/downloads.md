@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Downloads
-nav_order: 7
+title: Muat Turun
+parent: Sumber
+nav_order: 2
 description: "Download MyTxGNN drug repurposing prediction data"
 permalink: /downloads/
 ---

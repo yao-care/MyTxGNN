@@ -1,7 +1,8 @@
 ---
 layout: default
-title: User Guide
-nav_order: 6
+title: Panduan Pengguna
+parent: Bantuan
+nav_order: 2
 description: "How to use MyTxGNN drug repurposing prediction platform"
 permalink: /guide/
 ---

@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Methodology
-nav_order: 2
+title: Metodologi
+parent: Bantuan
+nav_order: 1
 description: "MyTxGNN prediction and validation methodology"
 permalink: /methodology/
 ---
