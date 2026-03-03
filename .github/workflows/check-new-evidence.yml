@@ -1,0 +1,65 @@
+name: Check New Evidence
+
+on:
+  schedule:
+    # Run at 00:00 and 12:00 UTC (08:00 and 20:00 Taiwan time)
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:  # Allow manual triggering
+
+permissions:
+  contents: write  # For updating cache files
+  issues: write    # For creating issues
+
+jobs:
+  check-evidence:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Extract drug list
+        run: python scripts/extract_drug_list.py
+
+      - name: Check ClinicalTrials.gov
+        run: python scripts/check_clinicaltrials.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        continue-on-error: true
+
+      - name: Check PubMed
+        run: python scripts/check_pubmed.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        continue-on-error: true
+
+      - name: Check TFDA
+        run: python scripts/check_tfda.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        continue-on-error: true
+
+      - name: Update cache files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/cache/ scripts/drug_list.json
+          if ! git diff --staged --quiet; then
+            git commit -m "Update evidence cache [skip ci]"
+            # Pull with rebase to handle concurrent changes
+            git pull --rebase origin main || true
+            git push || echo "Cache update skipped due to conflicts"
+          fi

@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00959-inherited-isolated-adrenal-insufficiency-due-to-pa",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00959"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "inherited-isolated-adrenal-insufficiency-due-to-pa",
+            "display": "inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency"
+          }
+        ],
+        "text": "inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

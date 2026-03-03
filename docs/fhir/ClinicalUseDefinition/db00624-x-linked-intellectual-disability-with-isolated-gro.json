@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00624-x-linked-intellectual-disability-with-isolated-gro",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00624"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "x-linked-intellectual-disability-with-isolated-gro",
+            "display": "X-linked intellectual disability with isolated growth hormone deficiency"
+          }
+        ],
+        "text": "X-linked intellectual disability with isolated growth hormone deficiency"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

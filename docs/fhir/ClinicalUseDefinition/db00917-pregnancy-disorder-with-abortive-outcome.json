@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00917-pregnancy-disorder-with-abortive-outcome",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00917"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "pregnancy-disorder-with-abortive-outcome",
+            "display": "pregnancy disorder with abortive outcome"
+          }
+        ],
+        "text": "pregnancy disorder with abortive outcome"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

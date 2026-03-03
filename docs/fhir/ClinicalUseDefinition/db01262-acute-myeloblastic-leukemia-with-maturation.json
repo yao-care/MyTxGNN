@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db01262-acute-myeloblastic-leukemia-with-maturation",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db01262"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "acute-myeloblastic-leukemia-with-maturation",
+            "display": "acute myeloblastic leukemia with maturation"
+          }
+        ],
+        "text": "acute myeloblastic leukemia with maturation"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db13946-hypogonadotropic-hypogonadism-with-or-without-anos",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db13946"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "hypogonadotropic-hypogonadism-with-or-without-anos",
+            "display": "hypogonadotropic hypogonadism with or without anosmia"
+          }
+        ],
+        "text": "hypogonadotropic hypogonadism with or without anosmia"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

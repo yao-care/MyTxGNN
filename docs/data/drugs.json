@@ -1,0 +1,31 @@
+{
+  "drugs": [
+    {"name": "Prednisolone", "slug": "prednisolone", "drugbank_id": "DB00860"},
+    {"name": "Betamethasone", "slug": "betamethasone", "drugbank_id": "DB00443"},
+    {"name": "Fusidic Acid", "slug": "fusidic-acid", "drugbank_id": "DB02703"},
+    {"name": "Hydrocortisone Acetate", "slug": "hydrocortisone-acetate", "drugbank_id": "DB14539"},
+    {"name": "Hydrocortisone", "slug": "hydrocortisone", "drugbank_id": "DB00741"},
+    {"name": "Dexamethasone", "slug": "dexamethasone", "drugbank_id": "DB01234"},
+    {"name": "Ketoconazole", "slug": "ketoconazole", "drugbank_id": "DB01026"},
+    {"name": "Ofloxacin", "slug": "ofloxacin", "drugbank_id": "DB01165"},
+    {"name": "Triamcinolone", "slug": "triamcinolone", "drugbank_id": "DB00620"},
+    {"name": "Mometasone Furoate", "slug": "mometasone-furoate", "drugbank_id": "DB14512"},
+    {"name": "Salicylic Acid", "slug": "salicylic-acid", "drugbank_id": "DB00936"},
+    {"name": "Clotrimazole", "slug": "clotrimazole", "drugbank_id": "DB00257"},
+    {"name": "Fluticasone Propionate", "slug": "fluticasone-propionate", "drugbank_id": "DB00588"},
+    {"name": "Simvastatin", "slug": "simvastatin", "drugbank_id": "DB00641"},
+    {"name": "Zinc Oxide", "slug": "zinc-oxide", "drugbank_id": "DB09321"},
+    {"name": "Metronidazole", "slug": "metronidazole", "drugbank_id": "DB00916"},
+    {"name": "Paclitaxel", "slug": "paclitaxel", "drugbank_id": "DB01229"},
+    {"name": "Ibuprofen", "slug": "ibuprofen", "drugbank_id": "DB01050"},
+    {"name": "Telmisartan", "slug": "telmisartan", "drugbank_id": "DB00966"},
+    {"name": "Cyanocobalamin", "slug": "cyanocobalamin", "drugbank_id": "DB00115"},
+    {"name": "Metformin", "slug": "metformin", "drugbank_id": "DB00331"},
+    {"name": "Aspirin", "slug": "aspirin", "drugbank_id": "DB00945"},
+    {"name": "Atorvastatin", "slug": "atorvastatin", "drugbank_id": "DB01076"},
+    {"name": "Amlodipine", "slug": "amlodipine", "drugbank_id": "DB00381"},
+    {"name": "Omeprazole", "slug": "omeprazole", "drugbank_id": "DB00338"}
+  ],
+  "total": 508,
+  "last_updated": "2026-03-03"
+}

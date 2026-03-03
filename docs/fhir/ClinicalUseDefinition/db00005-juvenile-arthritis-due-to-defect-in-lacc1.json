@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00005-juvenile-arthritis-due-to-defect-in-lacc1",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00005"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "juvenile-arthritis-due-to-defect-in-lacc1",
+            "display": "juvenile arthritis due to defect in LACC1"
+          }
+        ],
+        "text": "juvenile arthritis due to defect in LACC1"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

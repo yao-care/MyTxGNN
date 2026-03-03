@@ -1,0 +1,39 @@
+{
+  "services": [
+    {
+      "hook": "order-sign",
+      "title": "MyTxGNN Drug Interaction Check",
+      "description": "Check for potential drug-drug interactions (PDDI) in prescriptions based on DDInter 2.0 database. Provides contextualized clinical alerts and management recommendations.",
+      "id": "mytxgnn-ddi-check",
+      "prefetch": {
+        "patient": "Patient/{{context.patientId}}",
+        "medications": "MedicationRequest?patient={{context.patientId}}&status=active,completed"
+      },
+      "usageRequirements": "Requires MedicationRequest read access"
+    },
+    {
+      "hook": "order-sign",
+      "title": "MyTxGNN Drug Repurposing Candidates",
+      "description": "Based on TxGNN knowledge graph, provide drug repurposing prediction candidates for patient medications. Assists clinical decision-making and clinical trial matching.",
+      "id": "mytxgnn-repurposing",
+      "prefetch": {
+        "patient": "Patient/{{context.patientId}}",
+        "medications": "MedicationRequest?patient={{context.patientId}}&status=active,completed",
+        "conditions": "Condition?patient={{context.patientId}}&clinical-status=active"
+      },
+      "usageRequirements": "Requires MedicationRequest and Condition read access"
+    },
+    {
+      "hook": "patient-view",
+      "title": "MyTxGNN Clinical Trial Matching",
+      "description": "Automatically search ClinicalTrials.gov for relevant clinical trials based on patient medications and diagnoses.",
+      "id": "mytxgnn-trial-match",
+      "prefetch": {
+        "patient": "Patient/{{context.patientId}}",
+        "medications": "MedicationRequest?patient={{context.patientId}}&status=active",
+        "conditions": "Condition?patient={{context.patientId}}&clinical-status=active"
+      },
+      "usageRequirements": "Requires MedicationRequest and Condition read access"
+    }
+  ]
+}

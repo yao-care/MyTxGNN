@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00153-hereditary-hypophosphatemic-rickets",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00153"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "hereditary-hypophosphatemic-rickets",
+            "display": "hereditary hypophosphatemic rickets"
+          }
+        ],
+        "text": "hereditary hypophosphatemic rickets"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

@@ -1,0 +1,1972 @@
+{
+  "generated": "2026-03-03",
+  "description": "News monitoring keywords for MyTxGNN",
+  "disease_keywords": {
+    "diabetes mellitus": {
+      "primary": "diabetes mellitus",
+      "synonyms": [
+        "kencing manis",
+        "diabetis",
+        "diabetes",
+        "penyakit gula",
+        "sakit kencing manis"
+      ],
+      "patterns": [
+        "\"diabetes mellitus\"",
+        "\"diabetes mellitus\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"diabetes mellitus\" AND (breakthrough OR discovery OR trial)"
+      ]
+    },
+    "hypertension": {
+      "primary": "hypertension",
+      "synonyms": [
+        "tekanan darah tinggi",
+        "hipertensi",
+        "darah tinggi",
+        "high blood pressure"
+      ],
+      "patterns": [
+        "\"hypertension\"",
+        "\"hypertension\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"hypertension\" AND (breakthrough OR discovery OR trial)"
+      ]
+    },
+    "cancer": {
+      "primary": "cancer",
+      "synonyms": [
+        "kanser",
+        "barah",
+        "ketumbuhan",
+        "tumor malignan"
+      ],
+      "patterns": [
+        "\"cancer\"",
+        "\"cancer\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"cancer\" AND (breakthrough OR discovery OR trial)"
+      ]
+    },
+    "heart disease": {
+      "primary": "heart disease",
+      "synonyms": [
+        "penyakit jantung",
+        "sakit jantung",
+        "masalah jantung",
+        "lemah jantung"
+      ],
+      "patterns": [
+        "\"heart disease\"",
+        "\"heart disease\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"heart disease\" AND (breakthrough OR discovery OR trial)"
+      ]
+    },
+    "asthma": {
+      "primary": "asthma",
+      "synonyms": [
+        "asma",
+        "lelah",
+        "sesak nafas",
+        "penyakit lelah"
+      ],
+      "patterns": [
+        "\"asthma\"",
+        "\"asthma\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"asthma\" AND (breakthrough OR discovery OR trial)"
+      ]
+    },
+    "depression": {
+      "primary": "depression",
+      "synonyms": [
+        "kemurungan",
+        "depresi",
+        "murung",
+        "tekanan perasaan"
+      ],
+      "patterns": [
+        "\"depression\"",
+        "\"depression\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"depression\" AND (breakthrough OR discovery OR trial)"
+      ]
+    },
+    "arthritis": {
+      "primary": "arthritis",
+      "synonyms": [
+        "artritis",
+        "sakit sendi",
+        "radang sendi",
+        "lenguh sendi"
+      ],
+      "patterns": [
+        "\"arthritis\"",
+        "\"arthritis\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"arthritis\" AND (breakthrough OR discovery OR trial)"
+      ]
+    },
+    "stroke": {
+      "primary": "stroke",
+      "synonyms": [
+        "strok",
+        "angin ahmar",
+        "pendarahan otak",
+        "lumpuh sebelah"
+      ],
+      "patterns": [
+        "\"stroke\"",
+        "\"stroke\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"stroke\" AND (breakthrough OR discovery OR trial)"
+      ]
+    },
+    "obesity": {
+      "primary": "obesity",
+      "synonyms": [
+        "obesiti",
+        "kegemukan",
+        "berat badan berlebihan",
+        "gemuk"
+      ],
+      "patterns": [
+        "\"obesity\"",
+        "\"obesity\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"obesity\" AND (breakthrough OR discovery OR trial)"
+      ]
+    },
+    "alzheimer disease": {
+      "primary": "alzheimer disease",
+      "synonyms": [
+        "penyakit alzheimer",
+        "alzheimer",
+        "nyanyuk",
+        "demensia"
+      ],
+      "patterns": [
+        "\"alzheimer disease\"",
+        "\"alzheimer disease\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"alzheimer disease\" AND (breakthrough OR discovery OR trial)"
+      ]
+    },
+    "dengue fever": {
+      "primary": "dengue fever",
+      "synonyms": [
+        "demam denggi",
+        "denggi",
+        "demam berdarah",
+        "dengue"
+      ],
+      "patterns": [
+        "\"dengue fever\"",
+        "\"dengue fever\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"dengue fever\" AND (breakthrough OR discovery OR trial)"
+      ]
+    },
+    "tuberculosis": {
+      "primary": "tuberculosis",
+      "synonyms": [
+        "tuberkulosis",
+        "tb",
+        "batuk kering",
+        "tibi"
+      ],
+      "patterns": [
+        "\"tuberculosis\"",
+        "\"tuberculosis\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"tuberculosis\" AND (breakthrough OR discovery OR trial)"
+      ]
+    },
+    "kidney disease": {
+      "primary": "kidney disease",
+      "synonyms": [
+        "penyakit buah pinggang",
+        "gagal ginjal",
+        "sakit pinggang",
+        "masalah buah pinggang"
+      ],
+      "patterns": [
+        "\"kidney disease\"",
+        "\"kidney disease\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"kidney disease\" AND (breakthrough OR discovery OR trial)"
+      ]
+    },
+    "liver disease": {
+      "primary": "liver disease",
+      "synonyms": [
+        "penyakit hati",
+        "sakit hati",
+        "hepatitis",
+        "sirosis"
+      ],
+      "patterns": [
+        "\"liver disease\"",
+        "\"liver disease\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"liver disease\" AND (breakthrough OR discovery OR trial)"
+      ]
+    },
+    "epilepsy": {
+      "primary": "epilepsy",
+      "synonyms": [
+        "epilepsi",
+        "sawan",
+        "penyakit sawan",
+        "gila babi"
+      ],
+      "patterns": [
+        "\"epilepsy\"",
+        "\"epilepsy\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"epilepsy\" AND (breakthrough OR discovery OR trial)"
+      ]
+    },
+    "migraine": {
+      "primary": "migraine",
+      "synonyms": [
+        "migrain",
+        "sakit kepala sebelah",
+        "migraine",
+        "kepala berdenyut"
+      ],
+      "patterns": [
+        "\"migraine\"",
+        "\"migraine\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"migraine\" AND (breakthrough OR discovery OR trial)"
+      ]
+    },
+    "gastritis": {
+      "primary": "gastritis",
+      "synonyms": [
+        "gastritis",
+        "radang perut",
+        "sakit perut",
+        "pedih ulu hati"
+      ],
+      "patterns": [
+        "\"gastritis\"",
+        "\"gastritis\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"gastritis\" AND (breakthrough OR discovery OR trial)"
+      ]
+    },
+    "pneumonia": {
+      "primary": "pneumonia",
+      "synonyms": [
+        "radang paru-paru",
+        "pneumonia",
+        "jangkitan paru-paru",
+        "paru-paru berair"
+      ],
+      "patterns": [
+        "\"pneumonia\"",
+        "\"pneumonia\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"pneumonia\" AND (breakthrough OR discovery OR trial)"
+      ]
+    },
+    "covid-19": {
+      "primary": "covid-19",
+      "synonyms": [
+        "covid-19",
+        "coronavirus",
+        "covid",
+        "wabak corona"
+      ],
+      "patterns": [
+        "\"covid-19\"",
+        "\"covid-19\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"covid-19\" AND (breakthrough OR discovery OR trial)"
+      ]
+    },
+    "malaria": {
+      "primary": "malaria",
+      "synonyms": [
+        "malaria",
+        "demam kura",
+        "demam paya"
+      ],
+      "patterns": [
+        "\"malaria\"",
+        "\"malaria\" AND (treatment OR therapy OR drug OR medicine)",
+        "\"malaria\" AND (breakthrough OR discovery OR trial)"
+      ]
+    }
+  },
+  "drug_keywords": {
+    "metformin": {
+      "primary": "metformin",
+      "synonyms": [
+        "Glucophage",
+        "Diabex",
+        "Fortamet",
+        "ubat kencing manis"
+      ],
+      "patterns": [
+        "\"metformin\"",
+        "\"metformin\" AND (repurposing OR \"new use\" OR indication)"
+      ]
+    },
+    "aspirin": {
+      "primary": "aspirin",
+      "synonyms": [
+        "Aspirin",
+        "Disprin",
+        "ubat tahan sakit",
+        "asid asetilsalisilik"
+      ],
+      "patterns": [
+        "\"aspirin\"",
+        "\"aspirin\" AND (repurposing OR \"new use\" OR indication)"
+      ]
+    },
+    "ibuprofen": {
+      "primary": "ibuprofen",
+      "synonyms": [
+        "Brufen",
+        "Advil",
+        "Nurofen",
+        "ubat anti-radang"
+      ],
+      "patterns": [
+        "\"ibuprofen\"",
+        "\"ibuprofen\" AND (repurposing OR \"new use\" OR indication)"
+      ]
+    },
+    "paracetamol": {
+      "primary": "paracetamol",
+      "synonyms": [
+        "Panadol",
+        "Tylenol",
+        "PCM",
+        "ubat demam"
+      ],
+      "patterns": [
+        "\"paracetamol\"",
+        "\"paracetamol\" AND (repurposing OR \"new use\" OR indication)"
+      ]
+    },
+    "amlodipine": {
+      "primary": "amlodipine",
+      "synonyms": [
+        "Norvasc",
+        "Amlocard",
+        "ubat darah tinggi"
+      ],
+      "patterns": [
+        "\"amlodipine\"",
+        "\"amlodipine\" AND (repurposing OR \"new use\" OR indication)"
+      ]
+    },
+    "omeprazole": {
+      "primary": "omeprazole",
+      "synonyms": [
+        "Losec",
+        "Prilosec",
+        "ubat gastrik",
+        "ubat asid"
+      ],
+      "patterns": [
+        "\"omeprazole\"",
+        "\"omeprazole\" AND (repurposing OR \"new use\" OR indication)"
+      ]
+    },
+    "atorvastatin": {
+      "primary": "atorvastatin",
+      "synonyms": [
+        "Lipitor",
+        "ubat kolesterol"
+      ],
+      "patterns": [
+        "\"atorvastatin\"",
+        "\"atorvastatin\" AND (repurposing OR \"new use\" OR indication)"
+      ]
+    },
+    "simvastatin": {
+      "primary": "simvastatin",
+      "synonyms": [
+        "Zocor",
+        "ubat kolesterol"
+      ],
+      "patterns": [
+        "\"simvastatin\"",
+        "\"simvastatin\" AND (repurposing OR \"new use\" OR indication)"
+      ]
+    },
+    "amoxicillin": {
+      "primary": "amoxicillin",
+      "synonyms": [
+        "Amoxil",
+        "Augmentin",
+        "antibiotik"
+      ],
+      "patterns": [
+        "\"amoxicillin\"",
+        "\"amoxicillin\" AND (repurposing OR \"new use\" OR indication)"
+      ]
+    },
+    "cetirizine": {
+      "primary": "cetirizine",
+      "synonyms": [
+        "Zyrtec",
+        "ubat alahan",
+        "antihistamin"
+      ],
+      "patterns": [
+        "\"cetirizine\"",
+        "\"cetirizine\" AND (repurposing OR \"new use\" OR indication)"
+      ]
+    },
+    "salbutamol": {
+      "primary": "salbutamol",
+      "synonyms": [
+        "Ventolin",
+        "ubat asma",
+        "inhaler"
+      ],
+      "patterns": [
+        "\"salbutamol\"",
+        "\"salbutamol\" AND (repurposing OR \"new use\" OR indication)"
+      ]
+    },
+    "insulin": {
+      "primary": "insulin",
+      "synonyms": [
+        "insulin",
+        "suntikan diabetes",
+        "ubat kencing manis"
+      ],
+      "patterns": [
+        "\"insulin\"",
+        "\"insulin\" AND (repurposing OR \"new use\" OR indication)"
+      ]
+    },
+    "losartan": {
+      "primary": "losartan",
+      "synonyms": [
+        "Cozaar",
+        "ubat darah tinggi",
+        "ARB"
+      ],
+      "patterns": [
+        "\"losartan\"",
+        "\"losartan\" AND (repurposing OR \"new use\" OR indication)"
+      ]
+    },
+    "gabapentin": {
+      "primary": "gabapentin",
+      "synonyms": [
+        "Neurontin",
+        "ubat saraf"
+      ],
+      "patterns": [
+        "\"gabapentin\"",
+        "\"gabapentin\" AND (repurposing OR \"new use\" OR indication)"
+      ]
+    },
+    "prednisolone": {
+      "primary": "prednisolone",
+      "synonyms": [
+        "Prelone",
+        "steroid",
+        "ubat radang"
+      ],
+      "patterns": [
+        "\"prednisolone\"",
+        "\"prednisolone\" AND (repurposing OR \"new use\" OR indication)"
+      ]
+    }
+  },
+  "drug_disease_pairs": [
+    {
+      "drugbank_id": "DB01202",
+      "drug": "LEVETIRACETAM",
+      "drug_synonyms": [
+        "LEVETIRACETAM"
+      ],
+      "disease": "partial epilepsy",
+      "disease_synonyms": [
+        "partial epilepsy"
+      ],
+      "patterns": [
+        "\"LEVETIRACETAM\" AND \"partial epilepsy\"",
+        "\"LEVETIRACETAM\" AND (partial epilepsy)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01592",
+      "drug": "IRON",
+      "drug_synonyms": [
+        "IRON"
+      ],
+      "disease": "microcytic anemia",
+      "disease_synonyms": [
+        "microcytic anemia"
+      ],
+      "patterns": [
+        "\"IRON\" AND \"microcytic anemia\"",
+        "\"IRON\" AND (microcytic anemia)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01592",
+      "drug": "IRON",
+      "drug_synonyms": [
+        "IRON"
+      ],
+      "disease": "deficiency anemia",
+      "disease_synonyms": [
+        "deficiency anemia"
+      ],
+      "patterns": [
+        "\"IRON\" AND \"deficiency anemia\"",
+        "\"IRON\" AND (deficiency anemia)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01592",
+      "drug": "IRON",
+      "drug_synonyms": [
+        "IRON"
+      ],
+      "disease": "folic acid deficiency anemia",
+      "disease_synonyms": [
+        "folic acid deficiency anemia"
+      ],
+      "patterns": [
+        "\"IRON\" AND \"folic acid deficiency anemia\"",
+        "\"IRON\" AND (folic acid deficiency anemia)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01592",
+      "drug": "IRON",
+      "drug_synonyms": [
+        "IRON"
+      ],
+      "disease": "anemia of prematurity",
+      "disease_synonyms": [
+        "anemia of prematurity"
+      ],
+      "patterns": [
+        "\"IRON\" AND \"anemia of prematurity\"",
+        "\"IRON\" AND (anemia of prematurity)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01592",
+      "drug": "IRON",
+      "drug_synonyms": [
+        "IRON"
+      ],
+      "disease": "iron deficiency anemia",
+      "disease_synonyms": [
+        "iron deficiency anemia"
+      ],
+      "patterns": [
+        "\"IRON\" AND \"iron deficiency anemia\"",
+        "\"IRON\" AND (iron deficiency anemia)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01592",
+      "drug": "IRON",
+      "drug_synonyms": [
+        "IRON"
+      ],
+      "disease": "hypochromic anemia",
+      "disease_synonyms": [
+        "hypochromic anemia"
+      ],
+      "patterns": [
+        "\"IRON\" AND \"hypochromic anemia\"",
+        "\"IRON\" AND (hypochromic anemia)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00257",
+      "drug": "CLOTRIMAZOLE",
+      "drug_synonyms": [
+        "CLOTRIMAZOLE"
+      ],
+      "disease": "pityriasis versicolor",
+      "disease_synonyms": [
+        "pityriasis versicolor"
+      ],
+      "patterns": [
+        "\"CLOTRIMAZOLE\" AND \"pityriasis versicolor\"",
+        "\"CLOTRIMAZOLE\" AND (pityriasis versicolor)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00257",
+      "drug": "CLOTRIMAZOLE",
+      "drug_synonyms": [
+        "CLOTRIMAZOLE"
+      ],
+      "disease": "cutaneous candidiasis",
+      "disease_synonyms": [
+        "cutaneous candidiasis"
+      ],
+      "patterns": [
+        "\"CLOTRIMAZOLE\" AND \"cutaneous candidiasis\"",
+        "\"CLOTRIMAZOLE\" AND (cutaneous candidiasis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00257",
+      "drug": "CLOTRIMAZOLE",
+      "drug_synonyms": [
+        "CLOTRIMAZOLE"
+      ],
+      "disease": "tinea pedis",
+      "disease_synonyms": [
+        "tinea pedis"
+      ],
+      "patterns": [
+        "\"CLOTRIMAZOLE\" AND \"tinea pedis\"",
+        "\"CLOTRIMAZOLE\" AND (tinea pedis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00257",
+      "drug": "CLOTRIMAZOLE",
+      "drug_synonyms": [
+        "CLOTRIMAZOLE"
+      ],
+      "disease": "oral candidiasis",
+      "disease_synonyms": [
+        "oral candidiasis"
+      ],
+      "patterns": [
+        "\"CLOTRIMAZOLE\" AND \"oral candidiasis\"",
+        "\"CLOTRIMAZOLE\" AND (oral candidiasis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00257",
+      "drug": "CLOTRIMAZOLE",
+      "drug_synonyms": [
+        "CLOTRIMAZOLE"
+      ],
+      "disease": "vulvovaginal candidiasis",
+      "disease_synonyms": [
+        "vulvovaginal candidiasis"
+      ],
+      "patterns": [
+        "\"CLOTRIMAZOLE\" AND \"vulvovaginal candidiasis\"",
+        "\"CLOTRIMAZOLE\" AND (vulvovaginal candidiasis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00257",
+      "drug": "CLOTRIMAZOLE",
+      "drug_synonyms": [
+        "CLOTRIMAZOLE"
+      ],
+      "disease": "tinea corporis",
+      "disease_synonyms": [
+        "tinea corporis"
+      ],
+      "patterns": [
+        "\"CLOTRIMAZOLE\" AND \"tinea corporis\"",
+        "\"CLOTRIMAZOLE\" AND (tinea corporis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00257",
+      "drug": "CLOTRIMAZOLE",
+      "drug_synonyms": [
+        "CLOTRIMAZOLE"
+      ],
+      "disease": "dermatophytosis of groin and perianal area",
+      "disease_synonyms": [
+        "dermatophytosis of groin and perianal area"
+      ],
+      "patterns": [
+        "\"CLOTRIMAZOLE\" AND \"dermatophytosis of groin and perianal area\"",
+        "\"CLOTRIMAZOLE\" AND (dermatophytosis of groin and perianal area)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00257",
+      "drug": "CLOTRIMAZOLE",
+      "drug_synonyms": [
+        "CLOTRIMAZOLE"
+      ],
+      "disease": "candidiasis",
+      "disease_synonyms": [
+        "candidiasis"
+      ],
+      "patterns": [
+        "\"CLOTRIMAZOLE\" AND \"candidiasis\"",
+        "\"CLOTRIMAZOLE\" AND (candidiasis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00257",
+      "drug": "CLOTRIMAZOLE",
+      "drug_synonyms": [
+        "CLOTRIMAZOLE"
+      ],
+      "disease": "tinea infection",
+      "disease_synonyms": [
+        "tinea infection"
+      ],
+      "patterns": [
+        "\"CLOTRIMAZOLE\" AND \"tinea infection\"",
+        "\"CLOTRIMAZOLE\" AND (tinea infection)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01013",
+      "drug": "CLOBETASOL PROPIONATE",
+      "drug_synonyms": [
+        "CLOBETASOL PROPIONATE"
+      ],
+      "disease": "dermatitis",
+      "disease_synonyms": [
+        "dermatitis"
+      ],
+      "patterns": [
+        "\"CLOBETASOL PROPIONATE\" AND \"dermatitis\"",
+        "\"CLOBETASOL PROPIONATE\" AND (dermatitis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01013",
+      "drug": "CLOBETASOL PROPIONATE",
+      "drug_synonyms": [
+        "CLOBETASOL PROPIONATE"
+      ],
+      "disease": "seborrheic keratosis",
+      "disease_synonyms": [
+        "seborrheic keratosis"
+      ],
+      "patterns": [
+        "\"CLOBETASOL PROPIONATE\" AND \"seborrheic keratosis\"",
+        "\"CLOBETASOL PROPIONATE\" AND (seborrheic keratosis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01013",
+      "drug": "CLOBETASOL PROPIONATE",
+      "drug_synonyms": [
+        "CLOBETASOL PROPIONATE"
+      ],
+      "disease": "scalp dermatosis",
+      "disease_synonyms": [
+        "scalp dermatosis"
+      ],
+      "patterns": [
+        "\"CLOBETASOL PROPIONATE\" AND \"scalp dermatosis\"",
+        "\"CLOBETASOL PROPIONATE\" AND (scalp dermatosis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01013",
+      "drug": "CLOBETASOL PROPIONATE",
+      "drug_synonyms": [
+        "CLOBETASOL PROPIONATE"
+      ],
+      "disease": "dermatitis, atopic",
+      "disease_synonyms": [
+        "dermatitis, atopic"
+      ],
+      "patterns": [
+        "\"CLOBETASOL PROPIONATE\" AND \"dermatitis, atopic\"",
+        "\"CLOBETASOL PROPIONATE\" AND (dermatitis, atopic)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01013",
+      "drug": "CLOBETASOL PROPIONATE",
+      "drug_synonyms": [
+        "CLOBETASOL PROPIONATE"
+      ],
+      "disease": "seborrheic dermatitis",
+      "disease_synonyms": [
+        "seborrheic dermatitis"
+      ],
+      "patterns": [
+        "\"CLOBETASOL PROPIONATE\" AND \"seborrheic dermatitis\"",
+        "\"CLOBETASOL PROPIONATE\" AND (seborrheic dermatitis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01013",
+      "drug": "CLOBETASOL PROPIONATE",
+      "drug_synonyms": [
+        "CLOBETASOL PROPIONATE"
+      ],
+      "disease": "contact dermatitis",
+      "disease_synonyms": [
+        "contact dermatitis"
+      ],
+      "patterns": [
+        "\"CLOBETASOL PROPIONATE\" AND \"contact dermatitis\"",
+        "\"CLOBETASOL PROPIONATE\" AND (contact dermatitis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01013",
+      "drug": "CLOBETASOL PROPIONATE",
+      "drug_synonyms": [
+        "CLOBETASOL PROPIONATE"
+      ],
+      "disease": "atopic eczema",
+      "disease_synonyms": [
+        "atopic eczema"
+      ],
+      "patterns": [
+        "\"CLOBETASOL PROPIONATE\" AND \"atopic eczema\"",
+        "\"CLOBETASOL PROPIONATE\" AND (atopic eczema)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01013",
+      "drug": "CLOBETASOL PROPIONATE",
+      "drug_synonyms": [
+        "CLOBETASOL PROPIONATE"
+      ],
+      "disease": "occupational dermatitis",
+      "disease_synonyms": [
+        "occupational dermatitis"
+      ],
+      "patterns": [
+        "\"CLOBETASOL PROPIONATE\" AND \"occupational dermatitis\"",
+        "\"CLOBETASOL PROPIONATE\" AND (occupational dermatitis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00367",
+      "drug": "LEVONORGESTREL",
+      "drug_synonyms": [
+        "LEVONORGESTREL"
+      ],
+      "disease": "postmenopausal osteoporosis",
+      "disease_synonyms": [
+        "postmenopausal osteoporosis"
+      ],
+      "patterns": [
+        "\"LEVONORGESTREL\" AND \"postmenopausal osteoporosis\"",
+        "\"LEVONORGESTREL\" AND (postmenopausal osteoporosis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00367",
+      "drug": "LEVONORGESTREL",
+      "drug_synonyms": [
+        "LEVONORGESTREL"
+      ],
+      "disease": "osteoporosis",
+      "disease_synonyms": [
+        "osteoporosis"
+      ],
+      "patterns": [
+        "\"LEVONORGESTREL\" AND \"osteoporosis\"",
+        "\"LEVONORGESTREL\" AND (osteoporosis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00455",
+      "drug": "LORATADINE",
+      "drug_synonyms": [
+        "LORATADINE"
+      ],
+      "disease": "pharyngitis",
+      "disease_synonyms": [
+        "pharyngitis"
+      ],
+      "patterns": [
+        "\"LORATADINE\" AND \"pharyngitis\"",
+        "\"LORATADINE\" AND (pharyngitis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00455",
+      "drug": "LORATADINE",
+      "drug_synonyms": [
+        "LORATADINE"
+      ],
+      "disease": "papillary conjunctivitis",
+      "disease_synonyms": [
+        "papillary conjunctivitis"
+      ],
+      "patterns": [
+        "\"LORATADINE\" AND \"papillary conjunctivitis\"",
+        "\"LORATADINE\" AND (papillary conjunctivitis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00455",
+      "drug": "LORATADINE",
+      "drug_synonyms": [
+        "LORATADINE"
+      ],
+      "disease": "vasomotor rhinitis",
+      "disease_synonyms": [
+        "vasomotor rhinitis"
+      ],
+      "patterns": [
+        "\"LORATADINE\" AND \"vasomotor rhinitis\"",
+        "\"LORATADINE\" AND (vasomotor rhinitis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00455",
+      "drug": "LORATADINE",
+      "drug_synonyms": [
+        "LORATADINE"
+      ],
+      "disease": "common cold",
+      "disease_synonyms": [
+        "common cold"
+      ],
+      "patterns": [
+        "\"LORATADINE\" AND \"common cold\"",
+        "\"LORATADINE\" AND (common cold)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00455",
+      "drug": "LORATADINE",
+      "drug_synonyms": [
+        "LORATADINE"
+      ],
+      "disease": "nasopharyngitis",
+      "disease_synonyms": [
+        "nasopharyngitis"
+      ],
+      "patterns": [
+        "\"LORATADINE\" AND \"nasopharyngitis\"",
+        "\"LORATADINE\" AND (nasopharyngitis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00455",
+      "drug": "LORATADINE",
+      "drug_synonyms": [
+        "LORATADINE"
+      ],
+      "disease": "idiopathic urticaria",
+      "disease_synonyms": [
+        "idiopathic urticaria"
+      ],
+      "patterns": [
+        "\"LORATADINE\" AND \"idiopathic urticaria\"",
+        "\"LORATADINE\" AND (idiopathic urticaria)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00455",
+      "drug": "LORATADINE",
+      "drug_synonyms": [
+        "LORATADINE"
+      ],
+      "disease": "atopic conjunctivitis",
+      "disease_synonyms": [
+        "atopic conjunctivitis"
+      ],
+      "patterns": [
+        "\"LORATADINE\" AND \"atopic conjunctivitis\"",
+        "\"LORATADINE\" AND (atopic conjunctivitis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00455",
+      "drug": "LORATADINE",
+      "drug_synonyms": [
+        "LORATADINE"
+      ],
+      "disease": "vernal conjunctivitis",
+      "disease_synonyms": [
+        "vernal conjunctivitis"
+      ],
+      "patterns": [
+        "\"LORATADINE\" AND \"vernal conjunctivitis\"",
+        "\"LORATADINE\" AND (vernal conjunctivitis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00455",
+      "drug": "LORATADINE",
+      "drug_synonyms": [
+        "LORATADINE"
+      ],
+      "disease": "allergic rhinitis",
+      "disease_synonyms": [
+        "allergic rhinitis"
+      ],
+      "patterns": [
+        "\"LORATADINE\" AND \"allergic rhinitis\"",
+        "\"LORATADINE\" AND (allergic rhinitis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "acute myeloid leukemia with minimal differentiation",
+      "disease_synonyms": [
+        "acute myeloid leukemia with minimal differentiation"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"acute myeloid leukemia with minimal differentiation\"",
+        "\"CYTARABINE\" AND (acute myeloid leukemia with minimal differentiation)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "leukemia, lymphocytic, susceptibility to",
+      "disease_synonyms": [
+        "leukemia, lymphocytic, susceptibility to"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"leukemia, lymphocytic, susceptibility to\"",
+        "\"CYTARABINE\" AND (leukemia, lymphocytic, susceptibility to)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "acute myeloblastic leukemia without maturation",
+      "disease_synonyms": [
+        "acute myeloblastic leukemia without maturation"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"acute myeloblastic leukemia without maturation\"",
+        "\"CYTARABINE\" AND (acute myeloblastic leukemia without maturation)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "therapy related acute myeloid leukemia and myelodysplastic syndrome",
+      "disease_synonyms": [
+        "therapy related acute myeloid leukemia and myelodysplastic syndrome"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"therapy related acute myeloid leukemia and myelodysplastic syndrome\"",
+        "\"CYTARABINE\" AND (therapy related acute myeloid leukemia and myelodysplastic syndrome)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "acute myeloblastic leukemia with maturation",
+      "disease_synonyms": [
+        "acute myeloblastic leukemia with maturation"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"acute myeloblastic leukemia with maturation\"",
+        "\"CYTARABINE\" AND (acute myeloblastic leukemia with maturation)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "acute myeloid leukemia with t(8;21)(q22;q22) translocation",
+      "disease_synonyms": [
+        "acute myeloid leukemia with t(8;21)(q22;q22) translocation"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"acute myeloid leukemia with t(8;21)(q22;q22) translocation\"",
+        "\"CYTARABINE\" AND (acute myeloid leukemia with t(8;21)(q22;q22) translocation)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "acute myeloid leukemia with CEBPA somatic mutations",
+      "disease_synonyms": [
+        "acute myeloid leukemia with CEBPA somatic mutations"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"acute myeloid leukemia with CEBPA somatic mutations\"",
+        "\"CYTARABINE\" AND (acute myeloid leukemia with CEBPA somatic mutations)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "acute lymphoblastic/lymphocytic leukemia",
+      "disease_synonyms": [
+        "acute lymphoblastic/lymphocytic leukemia"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"acute lymphoblastic/lymphocytic leukemia\"",
+        "\"CYTARABINE\" AND (acute lymphoblastic/lymphocytic leukemia)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "myeloid leukemia",
+      "disease_synonyms": [
+        "myeloid leukemia"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"myeloid leukemia\"",
+        "\"CYTARABINE\" AND (myeloid leukemia)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "inherited acute myeloid leukemia",
+      "disease_synonyms": [
+        "inherited acute myeloid leukemia"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"inherited acute myeloid leukemia\"",
+        "\"CYTARABINE\" AND (inherited acute myeloid leukemia)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "precursor T-cell acute lymphoblastic leukemia",
+      "disease_synonyms": [
+        "precursor T-cell acute lymphoblastic leukemia"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"precursor T-cell acute lymphoblastic leukemia\"",
+        "\"CYTARABINE\" AND (precursor T-cell acute lymphoblastic leukemia)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "acute myeloid leukemia with t(9;11)(p22;q23)",
+      "disease_synonyms": [
+        "acute myeloid leukemia with t(9;11)(p22;q23)"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"acute myeloid leukemia with t(9;11)(p22;q23)\"",
+        "\"CYTARABINE\" AND (acute myeloid leukemia with t(9;11)(p22;q23))"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "acute myeloid leukemia with inv3(p21;q26.2) or t(3;3)(p21;q26.2)",
+      "disease_synonyms": [
+        "acute myeloid leukemia with inv3(p21;q26.2) or t(3;3)(p21;q26.2)"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"acute myeloid leukemia with inv3(p21;q26.2) or t(3;3)(p21;q26.2)\"",
+        "\"CYTARABINE\" AND (acute myeloid leukemia with inv3(p21;q26.2) or t(3;3)(p21;q26.2))"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor",
+      "disease_synonyms": [
+        "acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor\"",
+        "\"CYTARABINE\" AND (acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "acute myeloid leukemia with t(6;9)(p23;q34)",
+      "disease_synonyms": [
+        "acute myeloid leukemia with t(6;9)(p23;q34)"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"acute myeloid leukemia with t(6;9)(p23;q34)\"",
+        "\"CYTARABINE\" AND (acute myeloid leukemia with t(6;9)(p23;q34))"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "acute myeloid leukemia with t(8;16)(p11;p13) translocation",
+      "disease_synonyms": [
+        "acute myeloid leukemia with t(8;16)(p11;p13) translocation"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"acute myeloid leukemia with t(8;16)(p11;p13) translocation\"",
+        "\"CYTARABINE\" AND (acute myeloid leukemia with t(8;16)(p11;p13) translocation)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "acute lymphoblastic leukemia (disease)",
+      "disease_synonyms": [
+        "acute lymphoblastic leukemia (disease)"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"acute lymphoblastic leukemia (disease)\"",
+        "\"CYTARABINE\" AND (acute lymphoblastic leukemia (disease))"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "acute promyelocytic leukemia",
+      "disease_synonyms": [
+        "acute promyelocytic leukemia"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"acute promyelocytic leukemia\"",
+        "\"CYTARABINE\" AND (acute promyelocytic leukemia)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "unclassified acute myeloid leukemia",
+      "disease_synonyms": [
+        "unclassified acute myeloid leukemia"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"unclassified acute myeloid leukemia\"",
+        "\"CYTARABINE\" AND (unclassified acute myeloid leukemia)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00987",
+      "drug": "CYTARABINE",
+      "drug_synonyms": [
+        "CYTARABINE"
+      ],
+      "disease": "acute myeloid leukemia with NPM1 somatic mutations",
+      "disease_synonyms": [
+        "acute myeloid leukemia with NPM1 somatic mutations"
+      ],
+      "patterns": [
+        "\"CYTARABINE\" AND \"acute myeloid leukemia with NPM1 somatic mutations\"",
+        "\"CYTARABINE\" AND (acute myeloid leukemia with NPM1 somatic mutations)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01120",
+      "drug": "GLICLAZIDE",
+      "drug_synonyms": [
+        "GLICLAZIDE"
+      ],
+      "disease": "type 2 diabetes mellitus",
+      "disease_synonyms": [
+        "type 2 diabetes mellitus"
+      ],
+      "patterns": [
+        "\"GLICLAZIDE\" AND \"type 2 diabetes mellitus\"",
+        "\"GLICLAZIDE\" AND (type 2 diabetes mellitus)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01120",
+      "drug": "GLICLAZIDE",
+      "drug_synonyms": [
+        "GLICLAZIDE"
+      ],
+      "disease": "diabetes mellitus (disease)",
+      "disease_synonyms": [
+        "diabetes mellitus (disease)"
+      ],
+      "patterns": [
+        "\"GLICLAZIDE\" AND \"diabetes mellitus (disease)\"",
+        "\"GLICLAZIDE\" AND (diabetes mellitus (disease))"
+      ]
+    },
+    {
+      "drugbank_id": "DB01039",
+      "drug": "FENOFIBRATE",
+      "drug_synonyms": [
+        "FENOFIBRATE"
+      ],
+      "disease": "hypoalphalipoproteinemia",
+      "disease_synonyms": [
+        "hypoalphalipoproteinemia"
+      ],
+      "patterns": [
+        "\"FENOFIBRATE\" AND \"hypoalphalipoproteinemia\"",
+        "\"FENOFIBRATE\" AND (hypoalphalipoproteinemia)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01039",
+      "drug": "FENOFIBRATE",
+      "drug_synonyms": [
+        "FENOFIBRATE"
+      ],
+      "disease": "familial hyperlipidemia",
+      "disease_synonyms": [
+        "familial hyperlipidemia"
+      ],
+      "patterns": [
+        "\"FENOFIBRATE\" AND \"familial hyperlipidemia\"",
+        "\"FENOFIBRATE\" AND (familial hyperlipidemia)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01039",
+      "drug": "FENOFIBRATE",
+      "drug_synonyms": [
+        "FENOFIBRATE"
+      ],
+      "disease": "obsolete familial combined hyperlipidemia",
+      "disease_synonyms": [
+        "obsolete familial combined hyperlipidemia"
+      ],
+      "patterns": [
+        "\"FENOFIBRATE\" AND \"obsolete familial combined hyperlipidemia\"",
+        "\"FENOFIBRATE\" AND (obsolete familial combined hyperlipidemia)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01039",
+      "drug": "FENOFIBRATE",
+      "drug_synonyms": [
+        "FENOFIBRATE"
+      ],
+      "disease": "hypertriglyceridemia (disease)",
+      "disease_synonyms": [
+        "hypertriglyceridemia (disease)"
+      ],
+      "patterns": [
+        "\"FENOFIBRATE\" AND \"hypertriglyceridemia (disease)\"",
+        "\"FENOFIBRATE\" AND (hypertriglyceridemia (disease))"
+      ]
+    },
+    {
+      "drugbank_id": "DB01039",
+      "drug": "FENOFIBRATE",
+      "drug_synonyms": [
+        "FENOFIBRATE"
+      ],
+      "disease": "hyperlipidemia",
+      "disease_synonyms": [
+        "hyperlipidemia"
+      ],
+      "patterns": [
+        "\"FENOFIBRATE\" AND \"hyperlipidemia\"",
+        "\"FENOFIBRATE\" AND (hyperlipidemia)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01039",
+      "drug": "FENOFIBRATE",
+      "drug_synonyms": [
+        "FENOFIBRATE"
+      ],
+      "disease": "hyperlipidemia, familial combined, LPL related",
+      "disease_synonyms": [
+        "hyperlipidemia, familial combined, LPL related"
+      ],
+      "patterns": [
+        "\"FENOFIBRATE\" AND \"hyperlipidemia, familial combined, LPL related\"",
+        "\"FENOFIBRATE\" AND (hyperlipidemia, familial combined, LPL related)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00136",
+      "drug": "CALCITRIOL",
+      "drug_synonyms": [
+        "CALCITRIOL"
+      ],
+      "disease": "renal osteodystrophy",
+      "disease_synonyms": [
+        "renal osteodystrophy"
+      ],
+      "patterns": [
+        "\"CALCITRIOL\" AND \"renal osteodystrophy\"",
+        "\"CALCITRIOL\" AND (renal osteodystrophy)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00136",
+      "drug": "CALCITRIOL",
+      "drug_synonyms": [
+        "CALCITRIOL"
+      ],
+      "disease": "hypophosphatemia (disease)",
+      "disease_synonyms": [
+        "hypophosphatemia (disease)"
+      ],
+      "patterns": [
+        "\"CALCITRIOL\" AND \"hypophosphatemia (disease)\"",
+        "\"CALCITRIOL\" AND (hypophosphatemia (disease))"
+      ]
+    },
+    {
+      "drugbank_id": "DB00136",
+      "drug": "CALCITRIOL",
+      "drug_synonyms": [
+        "CALCITRIOL"
+      ],
+      "disease": "hypercalcemia disease",
+      "disease_synonyms": [
+        "hypercalcemia disease"
+      ],
+      "patterns": [
+        "\"CALCITRIOL\" AND \"hypercalcemia disease\"",
+        "\"CALCITRIOL\" AND (hypercalcemia disease)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00136",
+      "drug": "CALCITRIOL",
+      "drug_synonyms": [
+        "CALCITRIOL"
+      ],
+      "disease": "hypoparathyroidism",
+      "disease_synonyms": [
+        "hypoparathyroidism"
+      ],
+      "patterns": [
+        "\"CALCITRIOL\" AND \"hypoparathyroidism\"",
+        "\"CALCITRIOL\" AND (hypoparathyroidism)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00136",
+      "drug": "CALCITRIOL",
+      "drug_synonyms": [
+        "CALCITRIOL"
+      ],
+      "disease": "phosphorus metabolism disease",
+      "disease_synonyms": [
+        "phosphorus metabolism disease"
+      ],
+      "patterns": [
+        "\"CALCITRIOL\" AND \"phosphorus metabolism disease\"",
+        "\"CALCITRIOL\" AND (phosphorus metabolism disease)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00136",
+      "drug": "CALCITRIOL",
+      "drug_synonyms": [
+        "CALCITRIOL"
+      ],
+      "disease": "nephrocalcinosis",
+      "disease_synonyms": [
+        "nephrocalcinosis"
+      ],
+      "patterns": [
+        "\"CALCITRIOL\" AND \"nephrocalcinosis\"",
+        "\"CALCITRIOL\" AND (nephrocalcinosis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB08899",
+      "drug": "ENZALUTAMIDE",
+      "drug_synonyms": [
+        "ENZALUTAMIDE"
+      ],
+      "disease": "familial prostate carcinoma",
+      "disease_synonyms": [
+        "familial prostate carcinoma"
+      ],
+      "patterns": [
+        "\"ENZALUTAMIDE\" AND \"familial prostate carcinoma\"",
+        "\"ENZALUTAMIDE\" AND (familial prostate carcinoma)"
+      ]
+    },
+    {
+      "drugbank_id": "DB08899",
+      "drug": "ENZALUTAMIDE",
+      "drug_synonyms": [
+        "ENZALUTAMIDE"
+      ],
+      "disease": "prostate carcinoma",
+      "disease_synonyms": [
+        "prostate carcinoma"
+      ],
+      "patterns": [
+        "\"ENZALUTAMIDE\" AND \"prostate carcinoma\"",
+        "\"ENZALUTAMIDE\" AND (prostate carcinoma)"
+      ]
+    },
+    {
+      "drugbank_id": "DB08899",
+      "drug": "ENZALUTAMIDE",
+      "drug_synonyms": [
+        "ENZALUTAMIDE"
+      ],
+      "disease": "prostate cancer",
+      "disease_synonyms": [
+        "prostate cancer"
+      ],
+      "patterns": [
+        "\"ENZALUTAMIDE\" AND \"prostate cancer\"",
+        "\"ENZALUTAMIDE\" AND (prostate cancer)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "chromomycosis",
+      "disease_synonyms": [
+        "chromomycosis"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"chromomycosis\"",
+        "\"KETOCONAZOLE\" AND (chromomycosis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "disseminated candidiasis",
+      "disease_synonyms": [
+        "disseminated candidiasis"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"disseminated candidiasis\"",
+        "\"KETOCONAZOLE\" AND (disseminated candidiasis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "paracoccidioidomycosis",
+      "disease_synonyms": [
+        "paracoccidioidomycosis"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"paracoccidioidomycosis\"",
+        "\"KETOCONAZOLE\" AND (paracoccidioidomycosis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "tinea pedis",
+      "disease_synonyms": [
+        "tinea pedis"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"tinea pedis\"",
+        "\"KETOCONAZOLE\" AND (tinea pedis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "pityriasis simplex",
+      "disease_synonyms": [
+        "pityriasis simplex"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"pityriasis simplex\"",
+        "\"KETOCONAZOLE\" AND (pityriasis simplex)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "sporotrichosis",
+      "disease_synonyms": [
+        "sporotrichosis"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"sporotrichosis\"",
+        "\"KETOCONAZOLE\" AND (sporotrichosis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "seborrheic dermatitis",
+      "disease_synonyms": [
+        "seborrheic dermatitis"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"seborrheic dermatitis\"",
+        "\"KETOCONAZOLE\" AND (seborrheic dermatitis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "black piedra",
+      "disease_synonyms": [
+        "black piedra"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"black piedra\"",
+        "\"KETOCONAZOLE\" AND (black piedra)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "coccidioidomycosis",
+      "disease_synonyms": [
+        "coccidioidomycosis"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"coccidioidomycosis\"",
+        "\"KETOCONAZOLE\" AND (coccidioidomycosis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "seborrheic keratosis",
+      "disease_synonyms": [
+        "seborrheic keratosis"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"seborrheic keratosis\"",
+        "\"KETOCONAZOLE\" AND (seborrheic keratosis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "cutaneous candidiasis",
+      "disease_synonyms": [
+        "cutaneous candidiasis"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"cutaneous candidiasis\"",
+        "\"KETOCONAZOLE\" AND (cutaneous candidiasis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "blastomycosis",
+      "disease_synonyms": [
+        "blastomycosis"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"blastomycosis\"",
+        "\"KETOCONAZOLE\" AND (blastomycosis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "histoplasmosis",
+      "disease_synonyms": [
+        "histoplasmosis"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"histoplasmosis\"",
+        "\"KETOCONAZOLE\" AND (histoplasmosis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "pityriasis versicolor",
+      "disease_synonyms": [
+        "pityriasis versicolor"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"pityriasis versicolor\"",
+        "\"KETOCONAZOLE\" AND (pityriasis versicolor)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "oral candidiasis",
+      "disease_synonyms": [
+        "oral candidiasis"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"oral candidiasis\"",
+        "\"KETOCONAZOLE\" AND (oral candidiasis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "white piedra",
+      "disease_synonyms": [
+        "white piedra"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"white piedra\"",
+        "\"KETOCONAZOLE\" AND (white piedra)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "aspergillosis",
+      "disease_synonyms": [
+        "aspergillosis"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"aspergillosis\"",
+        "\"KETOCONAZOLE\" AND (aspergillosis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "tinea corporis",
+      "disease_synonyms": [
+        "tinea corporis"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"tinea corporis\"",
+        "\"KETOCONAZOLE\" AND (tinea corporis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "Cushing syndrome",
+      "disease_synonyms": [
+        "Cushing syndrome"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"Cushing syndrome\"",
+        "\"KETOCONAZOLE\" AND (Cushing syndrome)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "dermatophytosis of groin and perianal area",
+      "disease_synonyms": [
+        "dermatophytosis of groin and perianal area"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"dermatophytosis of groin and perianal area\"",
+        "\"KETOCONAZOLE\" AND (dermatophytosis of groin and perianal area)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "adrenal gland hyperfunction",
+      "disease_synonyms": [
+        "adrenal gland hyperfunction"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"adrenal gland hyperfunction\"",
+        "\"KETOCONAZOLE\" AND (adrenal gland hyperfunction)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "candidiasis",
+      "disease_synonyms": [
+        "candidiasis"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"candidiasis\"",
+        "\"KETOCONAZOLE\" AND (candidiasis)"
+      ]
+    },
+    {
+      "drugbank_id": "DB01026",
+      "drug": "KETOCONAZOLE",
+      "drug_synonyms": [
+        "KETOCONAZOLE"
+      ],
+      "disease": "tinea infection",
+      "disease_synonyms": [
+        "tinea infection"
+      ],
+      "patterns": [
+        "\"KETOCONAZOLE\" AND \"tinea infection\"",
+        "\"KETOCONAZOLE\" AND (tinea infection)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00186",
+      "drug": "LORAZEPAM",
+      "drug_synonyms": [
+        "LORAZEPAM"
+      ],
+      "disease": "cutis verticis gyrata",
+      "disease_synonyms": [
+        "cutis verticis gyrata"
+      ],
+      "patterns": [
+        "\"LORAZEPAM\" AND \"cutis verticis gyrata\"",
+        "\"LORAZEPAM\" AND (cutis verticis gyrata)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00186",
+      "drug": "LORAZEPAM",
+      "drug_synonyms": [
+        "LORAZEPAM"
+      ],
+      "disease": "absence epilepsy",
+      "disease_synonyms": [
+        "absence epilepsy"
+      ],
+      "patterns": [
+        "\"LORAZEPAM\" AND \"absence epilepsy\"",
+        "\"LORAZEPAM\" AND (absence epilepsy)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00186",
+      "drug": "LORAZEPAM",
+      "drug_synonyms": [
+        "LORAZEPAM"
+      ],
+      "disease": "early myoclonic encephalopathy",
+      "disease_synonyms": [
+        "early myoclonic encephalopathy"
+      ],
+      "patterns": [
+        "\"LORAZEPAM\" AND \"early myoclonic encephalopathy\"",
+        "\"LORAZEPAM\" AND (early myoclonic encephalopathy)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00186",
+      "drug": "LORAZEPAM",
+      "drug_synonyms": [
+        "LORAZEPAM"
+      ],
+      "disease": "status epilepticus",
+      "disease_synonyms": [
+        "status epilepticus"
+      ],
+      "patterns": [
+        "\"LORAZEPAM\" AND \"status epilepticus\"",
+        "\"LORAZEPAM\" AND (status epilepticus)"
+      ]
+    },
+    {
+      "drugbank_id": "DB00186",
+      "drug": "LORAZEPAM",
+      "drug_synonyms": [
+        "LORAZEPAM"
+      ],
+      "disease": "anxiety",
+      "disease_synonyms": [
+        "anxiety"
+      ],
+      "patterns": [
+        "\"LORAZEPAM\" AND \"anxiety\"",
+        "\"LORAZEPAM\" AND (anxiety)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "description": "Disease and drug synonyms in Bahasa Malaysia and English",
+  "generated": "2026-03-01",
+  "indication_synonyms": {
+    "diabetes mellitus": [
+      "kencing manis",
+      "diabetis",
+      "diabetes",
+      "penyakit gula",
+      "sakit kencing manis"
+    ],
+    "hypertension": [
+      "tekanan darah tinggi",
+      "hipertensi",
+      "darah tinggi",
+      "high blood pressure"
+    ],
+    "cancer": [
+      "kanser",
+      "barah",
+      "ketumbuhan",
+      "tumor malignan"
+    ],
+    "heart disease": [
+      "penyakit jantung",
+      "sakit jantung",
+      "masalah jantung",
+      "lemah jantung"
+    ],
+    "asthma": [
+      "asma",
+      "lelah",
+      "sesak nafas",
+      "penyakit lelah"
+    ],
+    "depression": [
+      "kemurungan",
+      "depresi",
+      "murung",
+      "tekanan perasaan"
+    ],
+    "arthritis": [
+      "artritis",
+      "sakit sendi",
+      "radang sendi",
+      "lenguh sendi"
+    ],
+    "stroke": [
+      "strok",
+      "angin ahmar",
+      "pendarahan otak",
+      "lumpuh sebelah"
+    ],
+    "obesity": [
+      "obesiti",
+      "kegemukan",
+      "berat badan berlebihan",
+      "gemuk"
+    ],
+    "alzheimer disease": [
+      "penyakit alzheimer",
+      "alzheimer",
+      "nyanyuk",
+      "demensia"
+    ],
+    "dengue fever": [
+      "demam denggi",
+      "denggi",
+      "demam berdarah",
+      "dengue"
+    ],
+    "tuberculosis": [
+      "tuberkulosis",
+      "tb",
+      "batuk kering",
+      "tibi"
+    ],
+    "kidney disease": [
+      "penyakit buah pinggang",
+      "gagal ginjal",
+      "sakit pinggang",
+      "masalah buah pinggang"
+    ],
+    "liver disease": [
+      "penyakit hati",
+      "sakit hati",
+      "hepatitis",
+      "sirosis"
+    ],
+    "epilepsy": [
+      "epilepsi",
+      "sawan",
+      "penyakit sawan",
+      "gila babi"
+    ],
+    "migraine": [
+      "migrain",
+      "sakit kepala sebelah",
+      "migraine",
+      "kepala berdenyut"
+    ],
+    "gastritis": [
+      "gastritis",
+      "radang perut",
+      "sakit perut",
+      "pedih ulu hati"
+    ],
+    "pneumonia": [
+      "radang paru-paru",
+      "pneumonia",
+      "jangkitan paru-paru",
+      "paru-paru berair"
+    ],
+    "covid-19": [
+      "covid-19",
+      "coronavirus",
+      "covid",
+      "wabak corona"
+    ],
+    "malaria": [
+      "malaria",
+      "demam kura",
+      "demam paya"
+    ]
+  },
+  "drug_synonyms": {
+    "metformin": [
+      "Glucophage",
+      "Diabex",
+      "Fortamet",
+      "ubat kencing manis"
+    ],
+    "aspirin": [
+      "Aspirin",
+      "Disprin",
+      "ubat tahan sakit",
+      "asid asetilsalisilik"
+    ],
+    "ibuprofen": [
+      "Brufen",
+      "Advil",
+      "Nurofen",
+      "ubat anti-radang"
+    ],
+    "paracetamol": [
+      "Panadol",
+      "Tylenol",
+      "PCM",
+      "ubat demam"
+    ],
+    "amlodipine": [
+      "Norvasc",
+      "Amlocard",
+      "ubat darah tinggi"
+    ],
+    "omeprazole": [
+      "Losec",
+      "Prilosec",
+      "ubat gastrik",
+      "ubat asid"
+    ],
+    "atorvastatin": [
+      "Lipitor",
+      "ubat kolesterol"
+    ],
+    "simvastatin": [
+      "Zocor",
+      "ubat kolesterol"
+    ],
+    "amoxicillin": [
+      "Amoxil",
+      "Augmentin",
+      "antibiotik"
+    ],
+    "cetirizine": [
+      "Zyrtec",
+      "ubat alahan",
+      "antihistamin"
+    ],
+    "salbutamol": [
+      "Ventolin",
+      "ubat asma",
+      "inhaler"
+    ],
+    "insulin": [
+      "insulin",
+      "suntikan diabetes",
+      "ubat kencing manis"
+    ],
+    "losartan": [
+      "Cozaar",
+      "ubat darah tinggi",
+      "ARB"
+    ],
+    "gabapentin": [
+      "Neurontin",
+      "ubat saraf"
+    ],
+    "prednisolone": [
+      "Prelone",
+      "steroid",
+      "ubat radang"
+    ]
+  }
+}

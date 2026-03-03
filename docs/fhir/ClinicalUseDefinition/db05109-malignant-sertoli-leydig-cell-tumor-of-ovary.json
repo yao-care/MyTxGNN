@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db05109-malignant-sertoli-leydig-cell-tumor-of-ovary",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db05109"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "malignant-sertoli-leydig-cell-tumor-of-ovary",
+            "display": "malignant Sertoli-Leydig cell tumor of ovary"
+          }
+        ],
+        "text": "malignant Sertoli-Leydig cell tumor of ovary"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

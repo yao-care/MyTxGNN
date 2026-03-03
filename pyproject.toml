@@ -1,0 +1,35 @@
+[project]
+name = "mytxgnn"
+version = "0.1.0"
+description = "Malaysia drug repurposing predictions using TxGNN"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "feedparser>=6.0.12",
+    "lxml>=6.0.2",
+    "numpy<3",
+    "openai>=1.0.0",
+    "pandas>=2.2.0",
+    "pyyaml>=6.0.0",
+    "pytest>=9.0.2",
+    "requests>=2.32.5",
+    "tqdm>=4.67.1",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest-cov>=7.0.0",
+    "responses>=0.25.8",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/txgnn"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

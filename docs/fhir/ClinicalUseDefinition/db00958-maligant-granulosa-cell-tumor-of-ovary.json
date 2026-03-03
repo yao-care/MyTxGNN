@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00958-maligant-granulosa-cell-tumor-of-ovary",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00958"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "maligant-granulosa-cell-tumor-of-ovary",
+            "display": "maligant granulosa cell tumor of ovary"
+          }
+        ],
+        "text": "maligant granulosa cell tumor of ovary"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

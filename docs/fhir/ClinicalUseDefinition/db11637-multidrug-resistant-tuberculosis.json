@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db11637-multidrug-resistant-tuberculosis",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db11637"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "multidrug-resistant-tuberculosis",
+            "display": "multidrug-resistant tuberculosis"
+          }
+        ],
+        "text": "multidrug-resistant tuberculosis"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

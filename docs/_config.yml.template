@@ -1,0 +1,66 @@
+# TODO: 將此檔案改名為 _config.yml
+# TODO: 修改以下設定以符合您的專案
+
+# 基本設定
+title: "{Country}TxGNN Drug Repurposing Reports"  # TODO: 修改標題
+description: "{Country} 藥品老藥新用預測報告"        # TODO: 修改描述
+url: "https://{country}txgnn.example.com"          # TODO: 修改網址
+baseurl: ""
+lang: "{lang}"  # TODO: ISO 639-1 語言代碼，如 ja, ko, th
+
+# Jekyll 主題
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+
+# 插件
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# 搜尋功能
+search_enabled: true
+search:
+  heading_level: 3
+
+# 頁尾
+footer_content: "Copyright &copy; 2026 {Organization}. 僅供研究參考。"  # TODO: 修改
+
+# RSS Feed
+feed:
+  path: feed.xml
+  posts_limit: 20
+
+# Collections
+collections:
+  drugs:
+    output: true
+    permalink: /drugs/:name/
+  news:
+    output: true
+    permalink: /news/:name/
+
+# 預設值
+defaults:
+  - scope:
+      path: ""
+      type: "drugs"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "news"
+    values:
+      layout: "default"
+
+# Open Graph 設定
+# TODO: 提供適當的預設圖片
+og_image: "/assets/images/og-default.png"
+
+# 排除檔案
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - "*.template"

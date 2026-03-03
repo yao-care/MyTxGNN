@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00190-atypical-juvenile-parkinsonism",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00190"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "atypical-juvenile-parkinsonism",
+            "display": "atypical juvenile parkinsonism"
+          }
+        ],
+        "text": "atypical juvenile parkinsonism"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

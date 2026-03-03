@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00620-humoral-hypercalcemia-of-malignancy",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00620"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "humoral-hypercalcemia-of-malignancy",
+            "display": "humoral hypercalcemia of malignancy"
+          }
+        ],
+        "text": "humoral hypercalcemia of malignancy"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

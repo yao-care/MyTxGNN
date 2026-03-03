@@ -1,0 +1,65 @@
+# Malaysia TxGNN Drug Repurposing Reports
+# Jekyll configuration for GitHub Pages
+
+# Basic settings
+title: "MyTxGNN Drug Repurposing Reports"
+description: "Malaysia drug repurposing predictions using TxGNN knowledge graph"
+url: "https://mytxgnn.yao.care"
+baseurl: ""
+lang: "en"
+
+# Jekyll theme
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Search functionality
+search_enabled: true
+search:
+  heading_level: 3
+
+# Footer
+footer_content: "Copyright &copy; 2026 MyTxGNN Project. For research purposes only. Not medical advice."
+
+# RSS Feed
+feed:
+  path: feed.xml
+  posts_limit: 20
+
+# Collections
+collections:
+  drugs:
+    output: true
+    permalink: /drugs/:name/
+  news:
+    output: true
+    permalink: /news/:name/
+
+# Default values
+defaults:
+  - scope:
+      path: ""
+      type: "drugs"
+    values:
+      layout: "drug"
+  - scope:
+      path: ""
+      type: "news"
+    values:
+      layout: "default"
+
+# Open Graph settings
+og_image: "/assets/images/og-default.png"
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - "*.template"

@@ -1,0 +1,34 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db04930-pediculus-humanus-corporis-infestation",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db04930"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "coding": [
+          {
+            "system": "https://mytxgnn.yao.care/diseases",
+            "code": "pediculus-humanus-corporis-infestation",
+            "display": "Pediculus humanus corporis infestation"
+          }
+        ],
+        "text": "Pediculus humanus corporis infestation"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}
