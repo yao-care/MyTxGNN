@@ -1,5 +1,148 @@
 {
-  "news": [],
-  "last_updated": "2026-03-03T00:00:00Z",
-  "sources": ["CodeBlue", "The Star", "Malay Mail", "Bernama"]
+  "news": [
+    {
+      "title": "Malaysia Is Running Out Of Caregivers And Time — Rashidi Yahaya",
+      "published": "2026-03-03T05:30:00",
+      "sources": [
+        {
+          "name": "CodeBlue (Health News)",
+          "link": "https://codeblue.galencentre.org/2026/03/malaysia-is-running-out-of-caregivers-and-time-rashidi-yahaya/"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "title": "Health PSSC Moots Expansion Of Insurance Coverage For Mental Health Services",
+      "published": "2026-03-03T03:30:00",
+      "sources": [
+        {
+          "name": "CodeBlue (Health News)",
+          "link": "https://codeblue.galencentre.org/2026/03/health-pssc-moots-expansion-of-insurance-coverage-for-mental-health-services/"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "title": "IHH Healthcare Malaysia Marks Third Consecutive Year in Newsweek’s World’s Best Hospitals 2026 Rankings",
+      "published": "2026-03-03T02:21:19",
+      "sources": [
+        {
+          "name": "CodeBlue (Health News)",
+          "link": "https://codeblue.galencentre.org/2026/03/ihh-healthcare-malaysia-marks-third-consecutive-year-in-newsweeks-worlds-best-hospitals-2026-rankings/"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "title": "Expert: Gradually Replace PTDs In MOH With Public Health, Allied Health Professionals",
+      "published": "2026-03-03T02:00:00",
+      "sources": [
+        {
+          "name": "CodeBlue (Health News)",
+          "link": "https://codeblue.galencentre.org/2026/03/expert-gradually-replace-ptds-in-moh-with-public-health-allied-health-professionals/"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "title": "SMC Ranked Malaysia’s No. 1 Hospital In Newsweek’s World’s Best Hospitals 2026",
+      "published": "2026-03-02T08:35:27",
+      "sources": [
+        {
+          "name": "CodeBlue (Health News)",
+          "link": "https://codeblue.galencentre.org/2026/03/smc-ranked-malaysias-no-1-hospital-in-newsweeks-worlds-best-hospitals-2026/"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "title": "Space Nursing: A New Frontier In Health Care — Mohd Irwan Hakeem Mohd Arif",
+      "published": "2026-03-02T07:30:00",
+      "sources": [
+        {
+          "name": "CodeBlue (Health News)",
+          "link": "https://codeblue.galencentre.org/2026/03/space-nursing-a-new-frontier-in-health-care/"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "title": "When Bariatric Surgery is Dismissed As ‘Cosmetic’: What We Are Missing",
+      "published": "2026-03-02T05:34:55",
+      "sources": [
+        {
+          "name": "CodeBlue (Health News)",
+          "link": "https://codeblue.galencentre.org/2026/03/when-bariatric-surgery-is-dismissed-as-cosmetic-what-we-are-missing/"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "Diabetes Mellitus",
+          "keyword": "diabetes",
+          "slug": "diabetes-mellitus"
+        },
+        {
+          "type": "indication",
+          "name": "Hypertension",
+          "keyword": "hypertension",
+          "slug": "hypertension"
+        },
+        {
+          "type": "indication",
+          "name": "Obesity",
+          "keyword": "obesity",
+          "slug": "obesity"
+        }
+      ]
+    },
+    {
+      "title": "Over Half Of Hospital Patients At Risk Of Disease-Related Malnutrition, Say Dietitians",
+      "published": "2026-03-02T05:30:00",
+      "sources": [
+        {
+          "name": "CodeBlue (Health News)",
+          "link": "https://codeblue.galencentre.org/2026/03/over-half-of-hospital-patients-at-risk-of-disease-related-malnutrition-mda/"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "Cancer",
+          "keyword": "cancer",
+          "slug": "cancer"
+        }
+      ]
+    },
+    {
+      "title": "Public Sector Short Of Over 13,000 Specialists To Meet 2030 Needs: MOH",
+      "published": "2026-03-02T03:30:00",
+      "sources": [
+        {
+          "name": "CodeBlue (Health News)",
+          "link": "https://codeblue.galencentre.org/2026/03/public-sector-short-of-over-13000-specialists-to-meet-2030-needs-moh/"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "title": "Beyond Turf: Safeguarding Malaysia’s Clinical Core Before It Thins — Dr Musa Mohd Nordin",
+      "published": "2026-03-02T02:30:00",
+      "sources": [
+        {
+          "name": "CodeBlue (Health News)",
+          "link": "https://codeblue.galencentre.org/2026/03/beyond-turf-safeguarding-malaysias-clinical-core-before-it-thins-dr-musa-mohd-nordin/"
+        }
+      ],
+      "keywords": []
+    }
+  ],
+  "last_updated": "2026-03-04T07:49:17.145548Z",
+  "sources": [
+    "CodeBlue",
+    "The Star",
+    "Malay Mail",
+    "NST",
+    "FMT"
+  ]
 }
