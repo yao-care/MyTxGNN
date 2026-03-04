@@ -152,11 +152,11 @@ def main():
     news_items = []
     for item in latest_news.get("items", []):
         converted = convert_news_item(item, drugs_lookup, synonyms)
-        # Only include items with keywords or from health sources
-        if converted["keywords"] or "CodeBlue" in item.get("source", ""):
+        # Only include items that match drug or indication keywords
+        if converted["keywords"]:
             news_items.append(converted)
 
-    print(f"   Converted {len(news_items)} items with keywords")
+    print(f"   Converted {len(news_items)} items with drug/indication keywords")
 
     # Create output
     output = {
