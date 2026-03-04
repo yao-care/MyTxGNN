@@ -1,31 +1,6 @@
 {
-  "news": [
-    {
-      "title": "Health Ministry implements various measures to reduce waiting times for cancer patients",
-      "published": "2026-03-04T06:26:00",
-      "sources": [
-        {
-          "name": "The Star Health",
-          "link": "https://www.thestar.com.my/news/nation/2026/03/04/health-ministry-implements-various-measures-to-reduce-waiting-times-for-cancer-patients"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "name": "Enzalutamide",
-          "slug": "enzalutamide",
-          "via_indication": "Cancer"
-        },
-        {
-          "type": "indication",
-          "name": "Cancer",
-          "keyword": "cancer",
-          "slug": "cancer"
-        }
-      ]
-    }
-  ],
-  "last_updated": "2026-03-04T07:31:14.680398Z",
+  "news": [],
+  "last_updated": "2026-03-04T08:26:14.703033Z",
   "sources": [
     "CodeBlue",
     "The Star",
