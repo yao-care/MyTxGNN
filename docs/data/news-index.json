@@ -1,43 +1,6 @@
 {
-  "news": [
-    {
-      "title": "When Bariatric Surgery is Dismissed As ‘Cosmetic’: What We Are Missing",
-      "published": "2026-03-02T05:34:55",
-      "sources": [
-        {
-          "name": "CodeBlue (Health News)",
-          "link": "https://codeblue.galencentre.org/2026/03/when-bariatric-surgery-is-dismissed-as-cosmetic-what-we-are-missing/"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "name": "Gliclazide",
-          "slug": "gliclazide",
-          "via_indication": "Diabetes Mellitus"
-        },
-        {
-          "type": "indication",
-          "name": "Diabetes Mellitus",
-          "keyword": "diabetes",
-          "slug": "diabetes-mellitus"
-        },
-        {
-          "type": "indication",
-          "name": "Hypertension",
-          "keyword": "hypertension",
-          "slug": "hypertension"
-        },
-        {
-          "type": "indication",
-          "name": "Obesity",
-          "keyword": "obesity",
-          "slug": "obesity"
-        }
-      ]
-    }
-  ],
-  "last_updated": "2026-03-04T05:07:25.449403Z",
+  "news": [],
+  "last_updated": "2026-03-04T06:34:01.514774Z",
   "sources": [
     "CodeBlue",
     "The Star",

@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-04T05:07:25.362828",
+  "fetched": "2026-03-04T06:34:01.428956",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,19 @@
   ],
   "total_items": 14,
   "items": [
+    {
+      "title": "Outpatient Overload: Can Private GPs Relieve Malaysia’s Public Hospitals? — Dr Mohamed Rafick Khan",
+      "url": "https://codeblue.galencentre.org/2026/03/outpatient-overload-can-private-gps-relieve-malaysias-public-hospitals-dr-mohamed-rafick-khan/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-04T05:30:00",
+      "summary": "Scaling GP responsibilities is feasible, but only with coordinated training pathways, regulatory recalibration, and performance-based contracting to maintain clinical governance standards nationwide. The post Outpatient Overload: Can Private GPs Relieve Malaysia’s Public Hospitals? — Dr Mohamed Rafick Khan appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "patient",
+        "clinical",
+        "hospital"
+      ]
+    },
     {
       "title": "MOH Wants RM29m Additional Funding For Psoriasis Biologics",
       "url": "https://codeblue.galencentre.org/2026/03/moh-wants-rm29m-additional-funding-for-psoriasis-biologics/",
@@ -111,26 +124,13 @@
       ]
     },
     {
-      "title": "When Bariatric Surgery is Dismissed As ‘Cosmetic’: What We Are Missing",
-      "url": "https://codeblue.galencentre.org/2026/03/when-bariatric-surgery-is-dismissed-as-cosmetic-what-we-are-missing/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-02T05:34:55",
-      "summary": "Bariatric surgery is often dismissed as “cosmetic”, but it is a medical intervention for severe obesity and metabolic disease. It drives significant weight loss, reduces metabolic comorbidities like diabetes and hypertension, and improves quality of life. The post When Bariatric Surgery is Dismissed As ‘Cosmetic’: What We Are Missing appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "disease",
-        "diabetes"
-      ]
-    },
-    {
-      "title": "Doctor&#039;s duty of care remains, says MMA over claims of credentials lease to prescribe weight-loss medications",
-      "url": "https://www.thestar.com.my/news/nation/2026/03/04/doctor039s-duty-of-care-remains-says-mma-over-claims-of-credentials-lease-to-prescribe-weight-loss-medications",
+      "title": "Rosmah to seek review of failed bid to recuse solar graft trial judge",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/04/rosmah-to-seek-review-of-failed-bid-to-recuse-solar-graft-trial-judge",
       "source": "The Star Health",
-      "published": "2026-03-04T04:27:00",
-      "summary": "PETALING JAYA: The Malaysian Medical Association (MMA) reminds doctors to ensure every prescription and facility operating under their name reflects their professional responsibility. Read full story",
+      "published": "2026-03-04T06:25:00",
+      "summary": "PUTRAJAYA: Datin Seri Rosmah Mansor will file a review of the Federal Court's dismissal of her appeal to recuse the trial judge in her graft case involving the RM1.25bil Sarawak solar hybrid project. Read full story",
       "keywords_matched": [
-        "medical",
-        "doctor"
+        "trial"
       ]
     },
     {
