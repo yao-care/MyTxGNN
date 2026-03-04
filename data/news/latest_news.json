@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-03-04T06:34:01.428956",
+  "fetched": "2026-03-04T07:31:14.591665",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 14,
   "items": [
+    {
+      "title": "Protect Children From Attacks On Schools — Malaysian Paediatric Association",
+      "url": "https://codeblue.galencentre.org/2026/03/protect-children-from-attacks-on-schools-malaysian-paediatric-association/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-03-04T07:30:00",
+      "summary": "The MPA urges the international community to move beyond words of sympathy and take decisive action to ensure that children everywhere are shielded from the horrors of war and violence. The post Protect Children From Attacks On Schools — Malaysian Paediatric Association appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Outpatient Overload: Can Private GPs Relieve Malaysia’s Public Hospitals? — Dr Mohamed Rafick Khan",
       "url": "https://codeblue.galencentre.org/2026/03/outpatient-overload-can-private-gps-relieve-malaysias-public-hospitals-dr-mohamed-rafick-khan/",
@@ -114,13 +122,15 @@
       ]
     },
     {
-      "title": "Space Nursing: A New Frontier In Health Care — Mohd Irwan Hakeem Mohd Arif",
-      "url": "https://codeblue.galencentre.org/2026/03/space-nursing-a-new-frontier-in-health-care/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-03-02T07:30:00",
-      "summary": "Nursing is more than bedside care; it is scientific, research-driven, and adaptive. Space nursing demonstrates how far nurses can extend their expertise, reaching environments once thought unreachable. The post Space Nursing: A New Frontier In Health Care — Mohd Irwan Hakeem Mohd Arif appeared first on CodeBlue .",
+      "title": "Health Ministry implements various measures to reduce waiting times for cancer patients",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/04/health-ministry-implements-various-measures-to-reduce-waiting-times-for-cancer-patients",
+      "source": "The Star Health",
+      "published": "2026-03-04T06:26:00",
+      "summary": "KUALA LUMPUR,: The Health Ministry (MOH) has implemented various short‑ and medium‑term measures to shorten waiting times for heart patients, including developing and upgrading infrastructure and equipment at invasive cardiology laboratories (ICLs), the Senate was told Wednesday (March 4). Read full story",
       "keywords_matched": [
-        "health"
+        "health",
+        "cancer",
+        "patient"
       ]
     },
     {
@@ -134,6 +144,16 @@
       ]
     },
     {
+      "title": "Health Ministry vows to slash waiting times for heart surgery with infrastructure boost across Malaysia",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/04/health-ministry-vows-to-slash-waiting-times-for-heart-surgery-with-infrastructure-boost-across-malaysia/211277",
+      "source": "Malay Mail",
+      "published": "2026-03-04T06:51:24",
+      "summary": "KUALA LUMPUR, March 4 —The Ministry of Health (MOH) has implemented various short‑ and medium‑term measures to sho...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
       "title": "Study: Over 2.85 million Malaysian children overweight or obese, more than 300,000 may develop serious diseases in later life",
       "url": "https://www.malaymail.com/news/malaysia/2026/03/04/study-over-285-million-malaysian-children-overweight-or-obese-more-than-300000-may-develop-serious-diseases-in-later-life/211242",
       "source": "Malay Mail",
@@ -141,26 +161,6 @@
       "summary": "KUALA LUMPUR, March 4 — More than 2.85 million Malaysian children aged five to 19 were overweight or living with o...",
       "keywords_matched": [
         "disease"
-      ]
-    },
-    {
-      "title": "Court sets June deadline to conclude prosecution in Lim Guan Eng undersea tunnel corruption trial",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/04/court-sets-june-deadline-to-conclude-prosecution-in-lim-guan-eng-undersea-tunnel-corruption-trial/211225",
-      "source": "Malay Mail",
-      "published": "2026-03-04T01:27:12",
-      "summary": "KUALA LUMPUR, March 4 — Sessions Court Judge Azura Alwi has directed that the corruption trial involving Lim Guan...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Explained: Why Rosmah couldn’t ‘reset’ her bribery trial and lost all three tries to remove judge",
-      "url": "https://www.malaymail.com/news/malaysia/2026/03/04/explained-why-rosmah-couldnt-reset-her-bribery-trial-and-lost-all-three-tries-to-remove-judge/211205",
-      "source": "Malay Mail",
-      "published": "2026-03-03T23:00:00",
-      "summary": "KUALA LUMPUR, March 4 — Datin Seri Rosmah Mansor has officially exhausted all available legal avenues to press the...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
