@@ -41,9 +41,6 @@ collections:
   drugs:
     output: true
     permalink: /drugs/:name/
-  news:
-    output: true
-    permalink: /news/:name/
 
 # Default values
 defaults:
@@ -52,11 +49,6 @@ defaults:
       type: "drugs"
     values:
       layout: "drug"
-  - scope:
-      path: ""
-      type: "news"
-    values:
-      layout: "default"
 
 # Open Graph settings
 og_image: "/assets/images/og-default.png"
