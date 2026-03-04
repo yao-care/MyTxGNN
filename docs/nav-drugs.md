@@ -4,6 +4,7 @@ title: Laporan Ubat
 nav_order: 4
 has_children: true
 description: "Layari 508 laporan pengesahan penggunaan semula ubat mengikut tahap bukti L1-L5."
+permalink: /laporan-ubat/
 ---
 
 # Laporan Ubat

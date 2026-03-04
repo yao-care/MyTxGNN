@@ -4,6 +4,7 @@ title: Data Keselamatan
 nav_order: 5
 has_children: true
 description: "Data keselamatan ubat termasuk interaksi ubat-ubat, ubat-penyakit, ubat-makanan, dan ubat-herba."
+permalink: /keselamatan/
 ---
 
 # Data Keselamatan

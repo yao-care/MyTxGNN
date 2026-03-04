@@ -4,6 +4,7 @@ title: Sumber
 nav_order: 6
 has_children: true
 description: "Sumber data, muat turun, dan dokumentasi untuk MyTxGNN."
+permalink: /sumber/
 ---
 
 # Sumber

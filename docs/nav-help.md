@@ -4,6 +4,7 @@ title: Bantuan
 nav_order: 7
 has_children: true
 description: "Bantuan dan dokumentasi untuk platform MyTxGNN."
+permalink: /bantuan/
 ---
 
 # Bantuan & Dokumentasi

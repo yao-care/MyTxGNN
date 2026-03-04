@@ -4,6 +4,7 @@ title: SMART on FHIR
 nav_order: 2
 has_children: true
 description: "Integrasi SMART on FHIR untuk MyTxGNN - akses ramalan penggunaan semula ubat melalui standard interoperabiliti kesihatan."
+permalink: /smart/
 ---
 
 # SMART on FHIR
